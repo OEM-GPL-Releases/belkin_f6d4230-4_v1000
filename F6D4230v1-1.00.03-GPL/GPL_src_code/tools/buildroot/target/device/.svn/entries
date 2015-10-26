@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16400"
+   name=""
+   committed-date="2006-10-17T16:57:49.676206Z"
+   url="svn://uclibc.org/trunk/buildroot/target/device"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   name="Soekris"
+   kind="dir"/>
+<entry
+   name="Via"
+   kind="dir"/>
+<entry
+   name="AMD"
+   kind="dir"/>
+<entry
+   committed-rev="9900"
+   name="Makefile.in"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2005-02-17T17:05:47.912406Z"
+   checksum="fa032984fb4412c2113d3f68fbdd9520"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   name="Hitachi"
+   kind="dir"/>
+<entry
+   name="jp"
+   kind="dir"/>
+<entry
+   committed-rev="13601"
+   name="Config.in"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2006-01-25T14:59:21.425037Z"
+   checksum="4a9655c3e66de00b09fca10bc000f243"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   name="Sharp"
+   kind="dir"/>
+</wc-entries>

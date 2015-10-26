@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="15764"
+   name=""
+   committed-date="2006-08-02T21:19:09.766633Z"
+   url="svn://uclibc.org/trunk/buildroot/toolchain/mklibs"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="15764"
+   name="mklibs.mk"
+   text-time="2006-10-24T01:01:55.000000Z"
+   committed-date="2006-08-02T21:19:09.766633Z"
+   checksum="d782518fc6c79280d39eeee727414b45"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:01:55.000000Z"/>
+<entry
+   committed-rev="15764"
+   name="mklibs.py"
+   text-time="2006-10-24T01:01:55.000000Z"
+   committed-date="2006-08-02T21:19:09.766633Z"
+   checksum="5a03cb894416c7c2e2b30e79c4dd3c12"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:01:55.000000Z"/>
+<entry
+   committed-rev="15764"
+   name="Config.in"
+   text-time="2006-10-24T01:01:55.000000Z"
+   committed-date="2006-08-02T21:19:09.766633Z"
+   checksum="a26e3e90b45af179e0747c94f416586c"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:01:55.000000Z"/>
+</wc-entries>

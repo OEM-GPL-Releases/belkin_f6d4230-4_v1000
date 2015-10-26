@@ -1,0 +1,15 @@
+1. about toolchain
+   toolchain is in the ToolChain/mips4KCle.tar.bz2, please decompress it, 
+   and change the file Uboot/toolchain.sh to right path.
+
+2. how to build the uboot.
+   cd Uboot/, do command: source toolchain.sh.
+   make clean   ---- clean 
+   make         ---- build the uboot.bin, uboot.bin under the Uboot/
+
+3. how to config the uboot.
+   cd Uboot/, do command: make distclean first. and then make menuconfig 
+
+4. about the flash_swap (d0 - d15 swap)
+   in Uboot/board/rt2880/Makefile, the FLASH_SWAP 
+

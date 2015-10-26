@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="14423"
+   name=""
+   committed-date="2006-03-02T06:18:02.238949Z"
+   url="svn://uclibc.org/trunk/buildroot/package/gnuconfig/testsuite"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="14423"
+   name="config-guess.data"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2006-03-02T06:18:02.238949Z"
+   checksum="3824ee1ddca40f0487b6f42f1dda24ba"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="11049"
+   name="config-guess.sh"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2005-08-04T22:42:34.999284Z"
+   checksum="41e2b231742e254cfab525f074c0f218"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="14423"
+   name="config-sub.data"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2006-03-02T06:18:02.238949Z"
+   checksum="8c1d20f9fdfb25cb9b0aa3e94fd51a78"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="11049"
+   name="config-sub.sh"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2005-08-04T22:42:34.999284Z"
+   checksum="8812add3cca20954da8265b1910c188c"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="11049"
+   name="uname.in"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2005-08-04T22:42:34.999284Z"
+   checksum="ab7afc09c668ba1e0cc10c434e48575b"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   name="CVS"
+   kind="dir"/>
+<entry
+   committed-rev="11049"
+   name=".cvsignore"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2005-08-04T22:42:34.999284Z"
+   checksum="e385889931f8fbb0db4a2d44258c58a1"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+</wc-entries>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="12505"
+   name=""
+   committed-date="2005-11-24T06:53:24.978525Z"
+   url="svn://uclibc.org/trunk/buildroot/package/tn5250"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="12505"
+   name="tn5250.mk"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2005-11-24T06:53:24.978525Z"
+   checksum="b9d3e62a36f106c73de39b6c470c3315"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="9615"
+   name="Config.in"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2004-12-24T09:39:23.000000Z"
+   checksum="9eb01d1dcde0af8c781f0575e0b6d4c3"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+</wc-entries>

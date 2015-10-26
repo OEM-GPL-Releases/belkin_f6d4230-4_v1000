@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="15599"
+   name=""
+   committed-date="2006-07-04T11:58:51.676756Z"
+   url="svn://uclibc.org/trunk/buildroot/package/make"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="15599"
+   name="make.mk"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2006-07-04T11:58:51.676756Z"
+   checksum="a78e3abbf0f3bffc4a9ba2f45e32dd76"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="9617"
+   name="Config.in"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2004-12-26T07:36:59.000000Z"
+   checksum="4ff151c2ed646d3f5778cfc845528f55"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+</wc-entries>

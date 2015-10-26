@@ -1,0 +1,112 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16360"
+   name=""
+   committed-date="2006-10-11T11:36:57.793826Z"
+   url="svn://uclibc.org/trunk/buildroot/toolchain/kernel-headers"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="16360"
+   name="kernel-headers.mk"
+   text-time="2006-10-24T01:01:58.000000Z"
+   committed-date="2006-10-11T11:36:57.793826Z"
+   checksum="3bf1dba582c2d669d469023bc2ed78ec"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:01:58.000000Z"/>
+<entry
+   committed-rev="10251"
+   name="linux-libc-headers-2.6.11.0-mips-nptl.patch"
+   text-time="2006-10-24T01:01:58.000000Z"
+   committed-date="2005-05-05T04:26:07.866473Z"
+   checksum="a2a88fef32f9711ff7c0baa5d3dc2647"
+   last-author="sjhill"
+   kind="file"
+   prop-time="2006-10-24T01:01:58.000000Z"/>
+<entry
+   committed-rev="11209"
+   name="linux-libc-headers-2.6.12.0-config-base-small.patch"
+   text-time="2006-10-24T01:01:58.000000Z"
+   committed-date="2005-08-18T23:15:57.339164Z"
+   checksum="a947e29092defa39aa3229ea5a8cb84b"
+   last-author="sjhill"
+   kind="file"
+   prop-time="2006-10-24T01:01:58.000000Z"/>
+<entry
+   committed-rev="14954"
+   name="linux-libc-headers-2.6.12.0-i2c_msg.patch"
+   text-time="2006-10-24T01:01:59.000000Z"
+   committed-date="2006-04-28T19:44:22.987937Z"
+   checksum="fc66825948ce58d9024710a999457334"
+   last-author="jacmet"
+   kind="file"
+   prop-time="2006-10-24T01:01:58.000000Z"/>
+<entry
+   committed-rev="11104"
+   name="linux-libc-headers-2.6.12.0-mips-nptl.patch"
+   text-time="2006-10-24T01:01:59.000000Z"
+   committed-date="2005-08-11T02:26:13.781780Z"
+   checksum="8c392ab3182e73c54f03f8f23d370f15"
+   last-author="sjhill"
+   kind="file"
+   prop-time="2006-10-24T01:01:58.000000Z"/>
+<entry
+   committed-rev="13214"
+   name="linux-libc-headers-2.6.11-nios2nommu.patch.conditional"
+   text-time="2006-10-24T01:01:59.000000Z"
+   committed-date="2006-01-10T02:16:11.863185Z"
+   checksum="20af3a18f2d597f03ebd13b573984c7c"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:01:58.000000Z"/>
+<entry
+   committed-rev="16248"
+   name="Config.in"
+   text-time="2006-10-24T01:01:59.000000Z"
+   committed-date="2006-09-28T12:51:25.794571Z"
+   checksum="58fc116247912a9e3f18b08799688e44"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:01:58.000000Z"/>
+<entry
+   committed-rev="15290"
+   name="linux-libc-headers-2.6.12.0-arm-eabi.patch"
+   text-time="2006-10-24T01:01:59.000000Z"
+   committed-date="2006-06-05T22:11:01.694309Z"
+   checksum="2018c53b9245ffc5234f02d37a48dc4a"
+   last-author="lethal"
+   kind="file"
+   prop-time="2006-10-24T01:01:58.000000Z"/>
+<entry
+   committed-rev="9368"
+   name="linux-libc-headers-2.6.8-cleanup.patch"
+   text-time="2006-10-24T01:01:59.000000Z"
+   committed-date="2004-10-09T02:49:33.000000Z"
+   checksum="375a550efce23997d2a641b93e3562b8"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:01:58.000000Z"/>
+<entry
+   committed-rev="13214"
+   name="linux-libc-headers-2.6.9-nios2nommu.patch.conditional"
+   text-time="2006-10-24T01:01:59.000000Z"
+   committed-date="2006-01-10T02:16:11.863185Z"
+   checksum="e046813ed2f3806b065c9df53265c304"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:01:58.000000Z"/>
+<entry
+   committed-rev="10057"
+   name="linux-libc-headers-2.6.11.0.patch"
+   text-time="2006-10-24T01:01:59.000000Z"
+   committed-date="2005-03-22T20:05:01.593289Z"
+   checksum="05e1639d34c71645bf088c87d7ca6e0b"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:01:58.000000Z"/>
+</wc-entries>

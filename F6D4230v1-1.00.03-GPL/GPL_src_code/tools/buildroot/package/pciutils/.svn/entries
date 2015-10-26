@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16282"
+   name=""
+   committed-date="2006-10-01T15:17:52.981074Z"
+   url="svn://uclibc.org/trunk/buildroot/package/pciutils"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="16282"
+   name="pciutils.mk"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2006-10-01T15:17:52.981074Z"
+   checksum="0a37d3356ec4fa7a07135db72ff24c7d"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="9439"
+   name="Config.in"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2004-10-14T20:33:45.000000Z"
+   checksum="fb096b057af6d8c2c9fcd481e39d006f"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="11685"
+   name="pciutils.patch"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2005-09-29T07:27:42.358218Z"
+   checksum="30ddae2a3cd4ba378da86b297f49a6ff"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+</wc-entries>

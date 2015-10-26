@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16346"
+   name=""
+   committed-date="2006-10-09T11:53:10.475565Z"
+   url="svn://uclibc.org/trunk/buildroot/package/wireless-tools"
+   last-author="jacmet"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="16346"
+   name="wireless-tools.mk"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2006-10-09T11:53:10.475565Z"
+   checksum="33bf785d0e39d7cccc44a04b28bc3684"
+   last-author="jacmet"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="9855"
+   name="Config.in"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2005-02-12T00:25:16.492400Z"
+   checksum="471097f7cb1ef301d127e6e8cd663b07"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+</wc-entries>

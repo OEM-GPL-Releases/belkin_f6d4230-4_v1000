@@ -1,0 +1,8 @@
+:uImage             &00040000
+@raeth.ko.lzma  &001FFFC0
+@rt2860v2_ap.ko.lzma  &001FFFC8
+@sc_module.ko.lzma  &001FFFD0
+@gui_www.pak  &001FFFE8
+:panic_info.txt     &001E0000
+%IP1006RRv2.pid      &0002FFEF &001FFFF0
+$SIZE               &800

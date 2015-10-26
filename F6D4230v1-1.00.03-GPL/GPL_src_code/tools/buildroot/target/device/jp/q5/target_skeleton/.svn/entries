@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="14803"
+   name=""
+   committed-date="2006-04-10T21:26:27.147901Z"
+   url="svn://uclibc.org/trunk/buildroot/target/device/jp/q5/target_skeleton"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   name="root"
+   kind="dir"/>
+<entry
+   name="usr"
+   kind="dir"/>
+<entry
+   name="etc"
+   kind="dir"/>
+</wc-entries>

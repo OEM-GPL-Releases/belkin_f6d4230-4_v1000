@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11226"
+   name=""
+   committed-date="2005-08-22T21:50:51.519325Z"
+   url="svn://uclibc.org/trunk/buildroot/toolchain/gdb/6.2.1"
+   last-author="mjn3"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="11226"
+   name="400-mips-coredump.patch-2.4.23-29"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-08-22T21:50:51.519325Z"
+   checksum="9b939edb72d0e54160869b48f2ebc080"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="9365"
+   name="100-uclibc-conf.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2004-10-09T01:06:03.000000Z"
+   checksum="07a9ca884df2c0edec524692d4c7267c"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="9365"
+   name="200-uclibc-readline-conf.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2004-10-09T01:06:03.000000Z"
+   checksum="c7d303fad9794b8a463bddf3c43737e5"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="10059"
+   name="500-thread-timeout.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-03-26T06:46:02.470011Z"
+   checksum="828e8080870104b6ba97b3b698000e68"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+</wc-entries>

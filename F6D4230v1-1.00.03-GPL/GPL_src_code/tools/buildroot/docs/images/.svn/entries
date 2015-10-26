@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9920"
+   name=""
+   committed-date="2005-02-21T21:16:29.769083Z"
+   url="svn://uclibc.org/trunk/buildroot/docs/images"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="9920"
+   name="busybox1.png"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2005-02-21T21:16:29.769083Z"
+   checksum="a200c2b43fcfa383ff59e090fcb85aa4"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   committed-rev="9920"
+   name="vh40.gif"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2005-02-21T21:16:29.769083Z"
+   checksum="25587915755dc09d467e70619967dc3e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+</wc-entries>

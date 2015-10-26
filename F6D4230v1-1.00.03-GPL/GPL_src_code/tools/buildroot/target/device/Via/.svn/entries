@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="13458"
+   name=""
+   committed-date="2006-01-20T20:51:48.948371Z"
+   url="svn://uclibc.org/trunk/buildroot/target/device/Via"
+   last-author="prpplague"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="13458"
+   name="Makefile.in"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2006-01-20T20:51:48.948371Z"
+   checksum="28f1f31e0f248cae1a59805600560891"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   name="epia-mii"
+   kind="dir"/>
+<entry
+   committed-rev="11013"
+   name="Config.in"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2005-08-01T21:11:06.656708Z"
+   checksum="34f6400c76be7358a6a458a56b678e1c"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+</wc-entries>

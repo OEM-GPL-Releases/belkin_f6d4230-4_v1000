@@ -1,0 +1,6 @@
+o How to build firmware
+    a. decompression buildroot-gdb-32bit.tar.bz2(in toolchain/) to somewhere such as /opt
+    b. change CONFIG_CROSS_COMPILER_PATH(tools.mk) to /A/buildroot-gdb/bin(A is the place where
+        you put the toolchain)
+    c. do "make" under root dir and wait...
+    d. you will get firmware binary F5D9231-4v2.bin(and F5D9231-4v2.img) in images/    

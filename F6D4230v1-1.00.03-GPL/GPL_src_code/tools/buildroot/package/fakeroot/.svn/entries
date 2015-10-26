@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16282"
+   name=""
+   committed-date="2006-10-01T15:17:52.981074Z"
+   url="svn://uclibc.org/trunk/buildroot/package/fakeroot"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="16282"
+   name="fakeroot.mk"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2006-10-01T15:17:52.981074Z"
+   checksum="f23253544f5c347f347e9e3cfad0ff62"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="9617"
+   name="Config.in"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2004-12-26T07:36:59.000000Z"
+   checksum="a99986da6ee3b6fb5bbdebd6d0bc2dd5"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="14920"
+   name="fakeroot-doc.patch"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2006-04-19T17:53:45.387647Z"
+   checksum="5ae9704cec73ba2f10bd7083c44a7357"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+</wc-entries>

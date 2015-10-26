@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="15492"
+   name=""
+   committed-date="2006-06-23T07:29:40.753010Z"
+   url="svn://uclibc.org/trunk/buildroot/package/bison"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="9368"
+   name="yacc"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2004-10-09T02:49:33.000000Z"
+   checksum="68defa00fe75b80a95ec2e250d725f99"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="15492"
+   name="bison.mk"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2006-06-23T07:29:40.753010Z"
+   checksum="7f68a057ad239f60ebaa152cd7019075"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="9614"
+   name="Config.in"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2004-12-24T09:23:11.000000Z"
+   checksum="7f248b53f5a3e47c5667926e31d29ddf"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+</wc-entries>

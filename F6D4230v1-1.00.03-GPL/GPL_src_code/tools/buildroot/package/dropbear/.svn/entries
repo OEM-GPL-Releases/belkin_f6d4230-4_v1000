@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16282"
+   name=""
+   committed-date="2006-10-01T15:17:52.981074Z"
+   url="svn://uclibc.org/trunk/buildroot/package/dropbear"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="14545"
+   name="dropbear-fix-missing-TIMEVAL_TO_TIMESPEC.patch"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-03-16T04:38:56.509564Z"
+   checksum="78a2d3785aca9918dc4e3593447470c5"
+   last-author="sjhill"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="16282"
+   name="dropbear.mk"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-10-01T15:17:52.981074Z"
+   checksum="f2553fdfc4cebb3b4c922a6b101a3413"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="11974"
+   name="Config.in"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2005-10-29T07:01:33.862838Z"
+   checksum="e1fa1446273115a739b9a583bb930760"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="11974"
+   name="dropbear-init.patch"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2005-10-29T07:01:33.862838Z"
+   checksum="f1ab9335dc104d19bf4cfff6d4a43407"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+</wc-entries>

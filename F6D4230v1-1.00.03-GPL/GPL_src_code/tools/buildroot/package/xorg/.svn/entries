@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16379"
+   name=""
+   committed-date="2006-10-14T11:34:14.906408Z"
+   url="svn://uclibc.org/trunk/buildroot/package/xorg"
+   last-author="jacmet"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="15666"
+   name="xorg-x11-6.8.2-gcc4-fix.patch"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-07-08T23:58:02.235281Z"
+   checksum="09f1a719ed430f48755556afca25d0a9"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="16225"
+   name="xorg-config.patch"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-09-26T12:48:43.519708Z"
+   checksum="45983c89cb4f3f3bf4d03d2a9058d082"
+   last-author="jacmet"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="15666"
+   name="freetype.patch"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-07-08T23:58:02.235281Z"
+   checksum="7fc0e7edde799feb49e1730e24c1c03d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="10309"
+   name="xorg-6.8.2-xterm.patch"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2005-05-12T22:22:29.765219Z"
+   checksum="32d7acc8343f729701a29342162b8cfb"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="15737"
+   name="xorg-noxf86cfg.patch"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-07-20T22:46:15.188526Z"
+   checksum="4ceb03b1cecbb3f706c6c41ead047009"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="15739"
+   name="xorg.conf"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-07-21T03:29:50.697271Z"
+   checksum="03b2d279e1dbd44a40e272d541c38e2a"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="15666"
+   name="fontfile.patch"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-07-08T23:58:02.235281Z"
+   checksum="0162db308639ddac99d1f91cb8a07656"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="16379"
+   name="xorg.mk"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-10-14T11:34:14.906408Z"
+   checksum="ccd3cacf33e0648d2db0fe3eb69c3b87"
+   last-author="jacmet"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="10309"
+   name="xorg-6.8.2-linux_config.patch"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2005-05-12T22:22:29.765219Z"
+   checksum="acdfe82713d65d05c54eb38e2d9a7f7f"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="15676"
+   name="Config.in"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-07-10T22:04:29.735653Z"
+   checksum="d7470b45ff99e6ef4b56f959e63d5bb7"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="15737"
+   name="xorg-mmx.patch"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-07-20T22:46:15.188526Z"
+   checksum="eb2280f56833420caa783d06fcd8ac24"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="10309"
+   name="xorg-uclibc.patch"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2005-05-12T22:22:29.765219Z"
+   checksum="52214a52e05c7dd513c80fdcba60191e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+</wc-entries>

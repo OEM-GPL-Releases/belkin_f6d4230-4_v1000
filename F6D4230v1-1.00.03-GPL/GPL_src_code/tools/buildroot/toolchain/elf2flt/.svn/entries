@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="14958"
+   name=""
+   committed-date="2006-04-29T04:08:25.666008Z"
+   url="svn://uclibc.org/trunk/buildroot/toolchain/elf2flt"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="14958"
+   name="elf2flt.mk"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2006-04-29T04:08:25.666008Z"
+   checksum="3154eb47346ec9724838d27e9bfad32c"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="13339"
+   name="elf2flt.nios2.conditional"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2006-01-15T04:12:27.918913Z"
+   checksum="03255c047477122503cd22f455ca1b8b"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="14017"
+   name="Config.in"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2006-02-15T00:17:46.757538Z"
+   checksum="43b5ed8b9a87179bd69145c564c54f9f"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   name="elf2flt"
+   kind="dir"/>
+</wc-entries>

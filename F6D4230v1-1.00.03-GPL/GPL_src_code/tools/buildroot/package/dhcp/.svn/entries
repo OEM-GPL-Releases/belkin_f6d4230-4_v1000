@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16282"
+   name=""
+   committed-date="2006-10-01T15:17:52.981074Z"
+   url="svn://uclibc.org/trunk/buildroot/package/dhcp"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="16282"
+   name="dhcp.mk"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2006-10-01T15:17:52.981074Z"
+   checksum="240fd07930f5d883633eee2982031aad"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="9893"
+   name="dhcpd.conf"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2005-02-16T19:48:03.639056Z"
+   checksum="2c6d17418db15a6a5565e0157d894443"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="10140"
+   name="init-server"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2005-04-21T17:36:04.111762Z"
+   checksum="23ef2f79e5987c2e4edf0e82d7e0846a"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="15731"
+   name="dhcp_xecute.patch"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2006-07-19T23:56:33.890396Z"
+   checksum="0e88dc591aa01dfdc599c6195e004c08"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="9889"
+   name="Config.in"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2005-02-16T19:08:33.925539Z"
+   checksum="a38a5e23b753a70c9dd1f3c398a008ba"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="11448"
+   name="dhclient-script"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2005-09-13T20:54:33.125901Z"
+   checksum="caaea0eaa1f754d0cf89275e61a88750"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="10140"
+   name="init-relay"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2005-04-21T17:36:04.111762Z"
+   checksum="f315212bdde8ed447d9585908b2db4d8"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="9893"
+   name="dhclient.conf"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2005-02-16T19:48:03.639056Z"
+   checksum="93e945b90c7dd2e498608ca1bb795281"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+</wc-entries>

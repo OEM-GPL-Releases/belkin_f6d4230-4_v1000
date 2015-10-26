@@ -1,0 +1,10 @@
+RT288x Uboot- History
+
+Version 2.0.1.0
+===============
+- [default setting] keep SPI, I2C UARTF pin at GPIO mode
+
+
+Version 2.0.0.0 (2.0 Final, 20070730)
+===============
+- [SDK] this version companion with  SDK 2.0 Final

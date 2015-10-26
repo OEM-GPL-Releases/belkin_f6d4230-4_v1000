@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="15492"
+   name=""
+   committed-date="2006-06-23T07:29:40.753010Z"
+   url="svn://uclibc.org/trunk/buildroot/package/coreutils"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="15492"
+   name="coreutils.mk"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2006-06-23T07:29:40.753010Z"
+   checksum="49af5138e2e2268db229b1807f4780b6"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="9614"
+   name="Config.in"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2004-12-24T09:23:11.000000Z"
+   checksum="a32edc08c0f9dda1ffd60368692bfd47"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+</wc-entries>

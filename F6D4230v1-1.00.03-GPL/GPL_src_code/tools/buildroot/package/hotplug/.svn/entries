@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="15796"
+   name=""
+   committed-date="2006-08-10T20:08:31.221664Z"
+   url="svn://uclibc.org/trunk/buildroot/package/hotplug"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="15796"
+   name="hotplug.mk"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2006-08-10T20:08:31.221664Z"
+   checksum="58a28c2e3710465ef4fd4b26ab8cae9d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="9615"
+   name="Config.in"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2004-12-24T09:39:23.000000Z"
+   checksum="820d1736f3d34826086b2e0cb4c0d287"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="15796"
+   name="diethotplug-0.5.tar"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2006-08-10T20:08:31.221664Z"
+   checksum="40edea7795668a97e5a125882a8b5407"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+</wc-entries>

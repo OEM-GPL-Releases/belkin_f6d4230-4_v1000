@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16001"
+   name=""
+   committed-date="2006-08-28T13:46:38.911029Z"
+   url="svn://uclibc.org/trunk/buildroot/package/ipsec-tools"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="16001"
+   name="ipsec-tools.mk"
+   text-time="2006-10-24T01:02:09.000000Z"
+   committed-date="2006-08-28T13:46:38.911029Z"
+   checksum="f7d27947d648887b1ad5f292db138214"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:09.000000Z"/>
+<entry
+   committed-rev="13537"
+   name="Config.in"
+   text-time="2006-10-24T01:02:09.000000Z"
+   committed-date="2006-01-23T21:43:28.016790Z"
+   checksum="e035142326f41525fb736cf64d042558"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:09.000000Z"/>
+</wc-entries>

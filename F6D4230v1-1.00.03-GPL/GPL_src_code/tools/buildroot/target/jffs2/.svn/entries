@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16318"
+   name=""
+   committed-date="2006-10-06T13:00:57.170490Z"
+   url="svn://uclibc.org/trunk/buildroot/target/jffs2"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="15904"
+   name="jffs2root.mk"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2006-08-22T08:03:19.439703Z"
+   checksum="b17fb157e44d4ac925867658e2189459"
+   last-author="jacmet"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   committed-rev="16318"
+   name="Config.in"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2006-10-06T13:00:57.170490Z"
+   checksum="e3c3644a3c57f8dab232cc44ab320f79"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+</wc-entries>

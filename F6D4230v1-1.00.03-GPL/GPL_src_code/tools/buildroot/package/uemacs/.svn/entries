@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16320"
+   name=""
+   committed-date="2006-10-06T13:02:11.540395Z"
+   url="svn://uclibc.org/trunk/buildroot/package/uemacs"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="16320"
+   name="uemacs.mk"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2006-10-06T13:02:11.540395Z"
+   checksum="c5fea32662695292662c88f6df4fef75"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="14588"
+   name="Config.in"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2006-03-21T11:22:52.926983Z"
+   checksum="d8b8922445d54e76cc719e211efb70f7"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="14588"
+   name="uemacs-4.0.15-lt.01.patch"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2006-03-21T11:22:52.926983Z"
+   checksum="ec24a7c8012c8eecf939be58ef21954e"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="14589"
+   name="uemacs-4.0.15-lt.02.patch"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2006-03-21T11:57:00.552208Z"
+   checksum="0f096f600faf56b31ce5e0bbbb4d1023"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+</wc-entries>

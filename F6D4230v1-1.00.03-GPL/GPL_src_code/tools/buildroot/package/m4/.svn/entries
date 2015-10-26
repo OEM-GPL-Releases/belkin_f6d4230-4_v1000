@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="15492"
+   name=""
+   committed-date="2006-06-23T07:29:40.753010Z"
+   url="svn://uclibc.org/trunk/buildroot/package/m4"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="15492"
+   name="m4.mk"
+   text-time="2006-10-24T01:02:09.000000Z"
+   committed-date="2006-06-23T07:29:40.753010Z"
+   checksum="d39f8ec0126bd3d989f27d47a59d5870"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:09.000000Z"/>
+<entry
+   committed-rev="9617"
+   name="Config.in"
+   text-time="2006-10-24T01:02:09.000000Z"
+   committed-date="2004-12-26T07:36:59.000000Z"
+   checksum="19cd58b81c198ee68df3ce2482d4aac7"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:09.000000Z"/>
+</wc-entries>

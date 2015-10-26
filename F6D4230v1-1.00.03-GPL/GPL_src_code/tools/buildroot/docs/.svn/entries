@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16282"
+   name=""
+   committed-date="2006-10-01T15:17:52.981074Z"
+   url="svn://uclibc.org/trunk/buildroot/docs"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="15707"
+   name="news.html"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2006-07-16T22:14:03.821828Z"
+   checksum="d3aa2f1c716eb0d2e9401d6d56785a27"
+   last-author="landley"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   committed-rev="9621"
+   name="stylesheet.css"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2004-12-27T19:01:52.000000Z"
+   checksum="17b7e8319cf7390a6e2c59defeb4b0af"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   committed-rev="9920"
+   name="copyright.txt"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2005-02-21T21:16:29.769083Z"
+   checksum="4bb8002d4d617ff0775db4fe62352300"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   committed-rev="11316"
+   name="developer.html"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2005-09-02T14:16:16.945019Z"
+   checksum="f546c8a88e224156fd1c008aed1eaa90"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   committed-rev="15696"
+   name="header.html"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2006-07-14T20:01:58.915016Z"
+   checksum="145dcff56f7ec9ab5801b948ca0644fa"
+   last-author="landley"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   committed-rev="9920"
+   name="docs.html"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2005-02-21T21:16:29.769083Z"
+   checksum="70ae4698ae5fd15c95728bcdee17ff4f"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   committed-rev="9799"
+   name="README"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2005-02-07T23:01:20.728814Z"
+   checksum="fa93cb1c4ac41c032987f2a0ecb1e590"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   committed-rev="15697"
+   name="lists.html"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2006-07-14T20:23:06.903069Z"
+   checksum="5beadbe822fa465820e32b8fcb23eb12"
+   last-author="landley"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   committed-rev="9920"
+   name="footer.html"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2005-02-21T21:16:29.769083Z"
+   checksum="fc63d375258763c44a6172d0b661de7c"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   committed-rev="9920"
+   name="subversion.html"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2005-02-21T21:16:29.769083Z"
+   checksum="b765d058b2dbfaaf4ff12e5eb570b461"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   name="images"
+   kind="dir"/>
+<entry
+   committed-rev="16282"
+   name="buildroot.html"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2006-10-01T15:17:52.981074Z"
+   checksum="603038da45f9268dffeed04b93088353"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   committed-rev="9920"
+   name="index.html"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2005-02-21T21:16:29.769083Z"
+   checksum="71189376812d14d2241d5852be6be55e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   committed-rev="14899"
+   name="download.html"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2006-04-17T02:50:23.730081Z"
+   checksum="4150e72fd0ccf6505bd81760166d5967"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   committed-rev="9920"
+   name="about.html"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2005-02-21T21:16:29.769083Z"
+   checksum="d21dd13f9f4e6773100d34c6a5480e0d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+</wc-entries>

@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16247"
+   name=""
+   committed-date="2006-09-28T10:35:12.352431Z"
+   url="svn://uclibc.org/trunk/buildroot/toolchain/gcc/4.2"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="15601"
+   name="100-uclibc-conf.patch"
+   text-time="2006-10-24T01:01:59.000000Z"
+   committed-date="2006-07-04T15:07:57.351476Z"
+   checksum="d80f5732ab5abef8c1a6fe59991db9a9"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:01:59.000000Z"/>
+<entry
+   committed-rev="16247"
+   name="205-uclibc-locale-update.patch"
+   text-time="2006-10-24T01:01:59.000000Z"
+   committed-date="2006-09-28T10:35:12.352431Z"
+   checksum="531e9cf2d899a27f961d0d24f1552877"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:01:59.000000Z"/>
+<entry
+   committed-rev="16246"
+   name="800-arm-bigendian.patch"
+   text-time="2006-10-24T01:01:59.000000Z"
+   committed-date="2006-09-28T10:30:29.478071Z"
+   checksum="8daf5088bc410f962e66536826221b9c"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:01:59.000000Z"/>
+<entry
+   committed-rev="15551"
+   name="300-libstdc++-pic.patch"
+   text-time="2006-10-24T01:01:59.000000Z"
+   committed-date="2006-06-30T01:25:51.266170Z"
+   checksum="b9631f049a0f8b926e04108e2779e3a1"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:01:59.000000Z"/>
+<entry
+   committed-rev="12706"
+   name="302-c99-snprintf.patch"
+   text-time="2006-10-24T01:01:59.000000Z"
+   committed-date="2005-12-06T22:12:15.731787Z"
+   checksum="49145ad9e849728301685e5950cca6b6"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:01:59.000000Z"/>
+<entry
+   committed-rev="14511"
+   name="204-uclibc-locale-wchar_fix.patch"
+   text-time="2006-10-24T01:01:59.000000Z"
+   committed-date="2006-03-10T14:05:15.702322Z"
+   checksum="f0ee57debbcd56e3ae2717dea9a6fa20"
+   last-author="psm"
+   kind="file"
+   prop-time="2006-10-24T01:01:59.000000Z"/>
+<entry
+   committed-rev="15999"
+   name="304-index_macro.patch"
+   text-time="2006-10-24T01:01:59.000000Z"
+   committed-date="2006-08-28T11:39:05.155513Z"
+   checksum="5bcbb060dd5b16d5b265865ca7f69cbf"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:01:59.000000Z"/>
+<entry
+   committed-rev="15549"
+   name="200-uclibc-locale.patch"
+   text-time="2006-10-24T01:01:59.000000Z"
+   committed-date="2006-06-30T01:15:13.627266Z"
+   checksum="c5aa2eddda1dbdac4c15d2f75f88fc26"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:01:59.000000Z"/>
+<entry
+   committed-rev="12706"
+   name="303-c99-complex-ugly-hack.patch"
+   text-time="2006-10-24T01:01:59.000000Z"
+   committed-date="2005-12-06T22:12:15.731787Z"
+   checksum="715da9340cbd5371c777f7933c8f3d60"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:01:59.000000Z"/>
+<entry
+   committed-rev="12706"
+   name="301-missing-execinfo_h.patch"
+   text-time="2006-10-24T01:01:59.000000Z"
+   committed-date="2005-12-06T22:12:15.731787Z"
+   checksum="a1a72ecb9890db3e59ea40274a054a4b"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:01:59.000000Z"/>
+<entry
+   committed-rev="14511"
+   name="103-uclibc-conf-noupstream.patch"
+   text-time="2006-10-24T01:01:59.000000Z"
+   committed-date="2006-03-10T14:05:15.702322Z"
+   checksum="df8af37587c71cf2397429349ec8e7a4"
+   last-author="psm"
+   kind="file"
+   prop-time="2006-10-24T01:01:59.000000Z"/>
+<entry
+   committed-rev="14511"
+   name="203-uclibc-locale-no__x.patch"
+   text-time="2006-10-24T01:01:59.000000Z"
+   committed-date="2006-03-10T14:05:15.702322Z"
+   checksum="9789c2c14c85349ce55d913bd895b3d8"
+   last-author="psm"
+   kind="file"
+   prop-time="2006-10-24T01:01:59.000000Z"/>
+</wc-entries>

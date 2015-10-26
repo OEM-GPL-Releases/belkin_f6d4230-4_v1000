@@ -1,0 +1,22 @@
+#
+# list of functions usually used
+#
+bool 'test1' TEST_1_MACRO y
+
+choice 'test2' \
+           "TEST2_CHOICE1 TEST2_CHOICE1_CONFIG \
+            TEST2_CHOICE2 TEST2_CHOICE2_CONFIG" TEST2_CHOICE1
+
+mainmenu_option next_comment
+comment 'test menu'
+
+bool 'test Timer option' CONFIG_TEST_TIMER_OPTION n
+
+if [ "$CONFIG_TEST_TIMER_OPTION" != "n" ]; then
+int  ' test Timer (Unit:10ms, Max Value=800=8sec)' CONFIG_TEST_TIMER 100
+int  ' test Timer2 (Unit:10ms, Max Value=800=8sec)' CONFIG_TEST_TIMER2 50
+fi
+
+endmenu
+
+string 'test string' CONFIG_STRING ""

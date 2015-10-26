@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16282"
+   name=""
+   committed-date="2006-10-01T15:17:52.981074Z"
+   url="svn://uclibc.org/trunk/buildroot/package/libfloat"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="16282"
+   name="libfloat.mk"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2006-10-01T15:17:52.981074Z"
+   checksum="bb9f3377ea9044fb42124a067487080a"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="9617"
+   name="Config.in"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2004-12-26T07:36:59.000000Z"
+   checksum="cc44e0e9fce420a7bb4d81f41c54e352"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="9368"
+   name="libfloat.patch"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2004-10-09T02:49:33.000000Z"
+   checksum="85e84752e369fa3516ceb3ebdddcc7ff"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+</wc-entries>

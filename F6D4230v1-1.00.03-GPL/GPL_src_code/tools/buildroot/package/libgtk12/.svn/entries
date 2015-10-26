@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16282"
+   name=""
+   committed-date="2006-10-01T15:17:52.981074Z"
+   url="svn://uclibc.org/trunk/buildroot/package/libgtk12"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="15678"
+   name="update-libtool.patch"
+   text-time="2006-10-24T01:02:09.000000Z"
+   committed-date="2006-07-10T22:06:45.819789Z"
+   checksum="110661ec2fa1aa97b94e6eb7762e700b"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:09.000000Z"/>
+<entry
+   committed-rev="16282"
+   name="libgtk12.mk"
+   text-time="2006-10-24T01:02:09.000000Z"
+   committed-date="2006-10-01T15:17:52.981074Z"
+   checksum="3508c294edfad5d7a7864c1ca75774a5"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:09.000000Z"/>
+<entry
+   committed-rev="15715"
+   name="gtk+1.2-reconf.patch"
+   text-time="2006-10-24T01:02:09.000000Z"
+   committed-date="2006-07-18T09:13:13.268455Z"
+   checksum="4e8d5594344927f0273d5b0f254371bd"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:09.000000Z"/>
+<entry
+   committed-rev="15678"
+   name="no-xwc.patch"
+   text-time="2006-10-24T01:02:09.000000Z"
+   committed-date="2006-07-10T22:06:45.819789Z"
+   checksum="364b6ebde9c2ed7d0c120376a93bd6bc"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:09.000000Z"/>
+<entry
+   committed-rev="15678"
+   name="Config.in"
+   text-time="2006-10-24T01:02:09.000000Z"
+   committed-date="2006-07-10T22:06:45.819789Z"
+   checksum="2b628b08b561a55452d5023ef8bb4cb2"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:09.000000Z"/>
+<entry
+   committed-rev="15678"
+   name="timezone-fix.patch"
+   text-time="2006-10-24T01:02:09.000000Z"
+   committed-date="2006-07-10T22:06:45.819789Z"
+   checksum="01d6b639b43c7d24e5ac1459bb9db652"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:09.000000Z"/>
+</wc-entries>

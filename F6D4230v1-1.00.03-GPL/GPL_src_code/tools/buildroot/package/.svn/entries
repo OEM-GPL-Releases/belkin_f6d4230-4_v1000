@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16399"
+   name=""
+   committed-date="2006-10-17T16:57:02.129729Z"
+   url="svn://uclibc.org/trunk/buildroot/package"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   name="mrouted"
+   kind="dir"/>
+<entry
+   name="gnuconfig"
+   kind="dir"/>
+<entry
+   name="ruby"
+   kind="dir"/>
+<entry
+   name="ncurses"
+   kind="dir"/>
+<entry
+   name="hotplug"
+   kind="dir"/>
+<entry
+   name="mtd"
+   kind="dir"/>
+<entry
+   name="jpeg"
+   kind="dir"/>
+<entry
+   name="qte"
+   kind="dir"/>
+<entry
+   name="wireless-tools"
+   kind="dir"/>
+<entry
+   name="pciutils"
+   kind="dir"/>
+<entry
+   name="slang"
+   kind="dir"/>
+<entry
+   name="valgrind"
+   kind="dir"/>
+<entry
+   name="berkeleydb"
+   kind="dir"/>
+<entry
+   name="socat"
+   kind="dir"/>
+<entry
+   name="mpg123"
+   kind="dir"/>
+<entry
+   name="usbutils"
+   kind="dir"/>
+<entry
+   name="fakeroot"
+   kind="dir"/>
+<entry
+   name="bison"
+   kind="dir"/>
+<entry
+   name="e2fsprogs"
+   kind="dir"/>
+<entry
+   name="make"
+   kind="dir"/>
+<entry
+   name="newt"
+   kind="dir"/>
+<entry
+   name="openssh"
+   kind="dir"/>
+<entry
+   name="lvm2"
+   kind="dir"/>
+<entry
+   name="directfb"
+   kind="dir"/>
+<entry
+   name="openssl"
+   kind="dir"/>
+<entry
+   name="gettext"
+   kind="dir"/>
+<entry
+   name="module-init-tools"
+   kind="dir"/>
+<entry
+   name="libfloat"
+   kind="dir"/>
+<entry
+   name="microperl"
+   kind="dir"/>
+<entry
+   name="tn5250"
+   kind="dir"/>
+<entry
+   name="sqlite"
+   kind="dir"/>
+<entry
+   name="which"
+   kind="dir"/>
+<entry
+   name="udev"
+   kind="dir"/>
+<entry
+   name="util-linux"
+   kind="dir"/>
+<entry
+   name="tinyx"
+   kind="dir"/>
+<entry
+   name="xfsprogs"
+   kind="dir"/>
+<entry
+   name="tcpdump"
+   kind="dir"/>
+<entry
+   name="libgtk12"
+   kind="dir"/>
+<entry
+   name="m4"
+   kind="dir"/>
+<entry
+   name="portmap"
+   kind="dir"/>
+<entry
+   name="rsync"
+   kind="dir"/>
+<entry
+   name="hostap"
+   kind="dir"/>
+<entry
+   name="libsysfs"
+   kind="dir"/>
+<entry
+   name="sysklogd"
+   kind="dir"/>
+<entry
+   name="modutils"
+   kind="dir"/>
+<entry
+   name="dm"
+   kind="dir"/>
+<entry
+   name="ntp"
+   kind="dir"/>
+<entry
+   name="ipsec-tools"
+   kind="dir"/>
+<entry
+   name="rxvt"
+   kind="dir"/>
+<entry
+   name="lzma"
+   kind="dir"/>
+<entry
+   name="mpfr"
+   kind="dir"/>
+<entry
+   name="coreutils"
+   kind="dir"/>
+<entry
+   name="iproute2"
+   kind="dir"/>
+<entry
+   name="ltrace"
+   kind="dir"/>
+<entry
+   name="libpcap"
+   kind="dir"/>
+<entry
+   name="bind"
+   kind="dir"/>
+<entry
+   name="tinylogin"
+   kind="dir"/>
+<entry
+   name="ethtool"
+   kind="dir"/>
+<entry
+   name="links"
+   kind="dir"/>
+<entry
+   name="tftpd"
+   kind="dir"/>
+<entry
+   name="tar"
+   kind="dir"/>
+<entry
+   name="ed"
+   kind="dir"/>
+<entry
+   name="gawk"
+   kind="dir"/>
+<entry
+   name="grep"
+   kind="dir"/>
+<entry
+   name="libcgicc"
+   kind="dir"/>
+<entry
+   name="findutils"
+   kind="dir"/>
+<entry
+   name="udhcp"
+   kind="dir"/>
+<entry
+   name="automake"
+   kind="dir"/>
+<entry
+   committed-rev="16245"
+   name="Config.in"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-09-28T10:19:43.906322Z"
+   checksum="d71afc75ddf3cb4ee665444afe434240"
+   last-author="jacmet"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   name="dhcp"
+   kind="dir"/>
+<entry
+   name="lighttpd"
+   kind="dir"/>
+<entry
+   name="python"
+   kind="dir"/>
+<entry
+   name="sdl"
+   kind="dir"/>
+<entry
+   committed-rev="16399"
+   name="Makefile.in"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-10-17T16:57:02.129729Z"
+   checksum="acf7817a2718a03487b458566d8d52d9"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   name="freetype"
+   kind="dir"/>
+<entry
+   name="sfdisk"
+   kind="dir"/>
+<entry
+   name="openvpn"
+   kind="dir"/>
+<entry
+   name="libmad"
+   kind="dir"/>
+<entry
+   name="flex"
+   kind="dir"/>
+<entry
+   name="psmisc"
+   kind="dir"/>
+<entry
+   name="zlib"
+   kind="dir"/>
+<entry
+   name="dmraid"
+   kind="dir"/>
+<entry
+   name="boa"
+   kind="dir"/>
+<entry
+   name="iptables"
+   kind="dir"/>
+<entry
+   name="wipe"
+   kind="dir"/>
+<entry
+   name="lzo"
+   kind="dir"/>
+<entry
+   name="thttpd"
+   kind="dir"/>
+<entry
+   name="microcom"
+   kind="dir"/>
+<entry
+   name="ttcp"
+   kind="dir"/>
+<entry
+   name="netkittelnet"
+   kind="dir"/>
+<entry
+   name="sudo"
+   kind="dir"/>
+<entry
+   name="sed"
+   kind="dir"/>
+<entry
+   name="uemacs"
+   kind="dir"/>
+<entry
+   name="haserl"
+   kind="dir"/>
+<entry
+   name="autoconf"
+   kind="dir"/>
+<entry
+   name="file"
+   kind="dir"/>
+<entry
+   name="tcl"
+   kind="dir"/>
+<entry
+   name="gmp"
+   kind="dir"/>
+<entry
+   name="diffutils"
+   kind="dir"/>
+<entry
+   name="netkitbase"
+   kind="dir"/>
+<entry
+   name="vtun"
+   kind="dir"/>
+<entry
+   name="pcmcia"
+   kind="dir"/>
+<entry
+   name="dialog"
+   kind="dir"/>
+<entry
+   name="linux"
+   kind="dir"/>
+<entry
+   name="pppd"
+   kind="dir"/>
+<entry
+   name="libtool"
+   kind="dir"/>
+<entry
+   name="config"
+   kind="dir"/>
+<entry
+   name="memtester"
+   kind="dir"/>
+<entry
+   name="wget"
+   kind="dir"/>
+<entry
+   name="dnsmasq"
+   kind="dir"/>
+<entry
+   name="mkdosfs"
+   kind="dir"/>
+<entry
+   name="xorg"
+   kind="dir"/>
+<entry
+   name="acpid"
+   kind="dir"/>
+<entry
+   name="expat"
+   kind="dir"/>
+<entry
+   name="smartmontools"
+   kind="dir"/>
+<entry
+   name="strace"
+   kind="dir"/>
+<entry
+   name="mdadm"
+   kind="dir"/>
+<entry
+   name="ltp-testsuite"
+   kind="dir"/>
+<entry
+   name="sysvinit"
+   kind="dir"/>
+<entry
+   name="libcgi"
+   kind="dir"/>
+<entry
+   name="cvs"
+   kind="dir"/>
+<entry
+   name="dropbear"
+   kind="dir"/>
+<entry
+   name="patch"
+   kind="dir"/>
+<entry
+   name="raidtools"
+   kind="dir"/>
+<entry
+   name="lsof"
+   kind="dir"/>
+<entry
+   name="ltt"
+   kind="dir"/>
+<entry
+   name="less"
+   kind="dir"/>
+<entry
+   name="pkgconfig"
+   kind="dir"/>
+<entry
+   name="libusb"
+   kind="dir"/>
+<entry
+   name="customize"
+   kind="dir"/>
+<entry
+   name="readline"
+   kind="dir"/>
+<entry
+   name="netsnmp"
+   kind="dir"/>
+<entry
+   name="lrzsz"
+   kind="dir"/>
+<entry
+   name="asterisk"
+   kind="dir"/>
+<entry
+   name="bzip2"
+   kind="dir"/>
+<entry
+   name="openntpd"
+   kind="dir"/>
+<entry
+   name="microwin"
+   kind="dir"/>
+<entry
+   name="nano"
+   kind="dir"/>
+<entry
+   name="busybox"
+   kind="dir"/>
+<entry
+   name="bridge"
+   kind="dir"/>
+<entry
+   name="libelf"
+   kind="dir"/>
+<entry
+   name="portage"
+   kind="dir"/>
+<entry
+   name="nbd"
+   kind="dir"/>
+<entry
+   name="dillo"
+   kind="dir"/>
+<entry
+   name="iostat"
+   kind="dir"/>
+<entry
+   name="at"
+   kind="dir"/>
+<entry
+   name="procps"
+   kind="dir"/>
+<entry
+   name="libglib12"
+   kind="dir"/>
+<entry
+   name="distcc"
+   kind="dir"/>
+<entry
+   name="gzip"
+   kind="dir"/>
+<entry
+   name="hdparm"
+   kind="dir"/>
+<entry
+   name="libpng"
+   kind="dir"/>
+<entry
+   name="bash"
+   kind="dir"/>
+</wc-entries>

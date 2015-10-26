@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16282"
+   name=""
+   committed-date="2006-10-01T15:17:52.981074Z"
+   url="svn://uclibc.org/trunk/buildroot/target/device/Soekris/soekris_gpio"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="16282"
+   name="soekris_gpio.mk"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2006-10-01T15:17:52.981074Z"
+   checksum="4dd86aec7ccadc5d38cd4a637b0f8a36"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="13526"
+   name="Makefile"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2006-01-23T20:13:15.140823Z"
+   checksum="0114139cbb58502d708aa4fec8595ab1"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+</wc-entries>

@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16282"
+   name=""
+   committed-date="2006-10-01T15:17:52.981074Z"
+   url="svn://uclibc.org/trunk/buildroot/package/bash"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="14572"
+   name="bash31-001"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-03-19T08:52:48.725728Z"
+   checksum="e2c9d77cb05219a0ce9bc6a39292f7e1"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="14572"
+   name="bash31-010"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-03-19T08:52:48.725728Z"
+   checksum="8f22aada2ab43baabe2cb873e76f158d"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="14572"
+   name="bash31-002"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-03-19T08:52:48.725728Z"
+   checksum="d6018001355b9377ccf6ae533df8151e"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="14572"
+   name="bash31-011"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-03-19T08:52:48.725728Z"
+   checksum="e3c3802a2e6569670f6c320c4b44c12d"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="14572"
+   name="bash31-003"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-03-19T08:52:48.725728Z"
+   checksum="ec12bd82783a3e15c02ee67c2b52de83"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="14616"
+   name="bash31-012"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-03-23T03:04:41.292468Z"
+   checksum="38d8b874e1f52c47daf496476f769577"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="14572"
+   name="bash31-004"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-03-19T08:52:48.725728Z"
+   checksum="ff9374f8c677c63787831f48a361fdcf"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="14616"
+   name="bash31-013"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-03-23T03:04:41.292468Z"
+   checksum="3a9c1a33306fa8d1dee644cefc5b0470"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="16282"
+   name="bash.mk"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-10-01T15:17:52.981074Z"
+   checksum="549f88e20a969a73f605f928daf6baa0"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="14572"
+   name="bash31-005"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-03-19T08:52:48.725728Z"
+   checksum="57cdcda21f1abfc6e581c488285fabf7"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="14616"
+   name="bash31-014"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-03-23T03:04:41.292468Z"
+   checksum="af9d87e2bda4ff1d7ab9cfcad51f41e0"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="14871"
+   name="bash31-015"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-04-15T02:24:59.726983Z"
+   checksum="f6bed465e01d9ea8d709962037fc98f7"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="14572"
+   name="bash31-006"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-03-19T08:52:48.725728Z"
+   checksum="48d67c0128d0cbc24b6557542fa9f853"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="14871"
+   name="bash31-016"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-04-15T02:24:59.726983Z"
+   checksum="143e93b7edc35ced0f3245c3740e43f7"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="14572"
+   name="bash31-007"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-03-19T08:52:48.725728Z"
+   checksum="750e7050859c15248b6a9514d237d5e0"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="14572"
+   name="bash31-008"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-03-19T08:52:48.725728Z"
+   checksum="e72d1f5b52e5eaccb63295a1cf4ed1ea"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="14873"
+   name="bash31-017"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-04-15T02:26:01.696151Z"
+   checksum="f012715a2b5293d9d7bb5cf9a668ad9d"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="14572"
+   name="bash31-009"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-03-19T08:52:48.725728Z"
+   checksum="87a24785e0654e7e9a08fd51592c6a3e"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="9439"
+   name="Config.in"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2004-10-14T20:33:45.000000Z"
+   checksum="e4a00dffe83acf61d8f9ca543839af9a"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+</wc-entries>

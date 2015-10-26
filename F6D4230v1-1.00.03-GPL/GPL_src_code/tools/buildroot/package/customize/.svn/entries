@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9842"
+   name=""
+   committed-date="2005-02-10T03:06:39.985725Z"
+   url="svn://uclibc.org/trunk/buildroot/package/customize"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="9842"
+   name="customize.mk"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2005-02-10T03:06:39.985725Z"
+   checksum="dfdf1bef03a54b47eb55eb71be1a1759"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="9614"
+   name="Config.in"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2004-12-24T09:23:11.000000Z"
+   checksum="6d314f728a243b6279ab832c695721ff"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+</wc-entries>

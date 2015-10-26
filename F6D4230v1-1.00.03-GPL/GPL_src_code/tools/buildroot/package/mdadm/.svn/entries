@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="14879"
+   name=""
+   committed-date="2006-04-15T02:27:17.933315Z"
+   url="svn://uclibc.org/trunk/buildroot/package/mdadm"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="14879"
+   name="mdadm.mk"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-04-15T02:27:17.933315Z"
+   checksum="4c4a1e59023c568b6d0bef2277ce16b5"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="11609"
+   name="Config.in"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2005-09-24T00:57:27.621690Z"
+   checksum="15c10ba510d83dc372972173eac746e7"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+</wc-entries>

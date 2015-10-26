@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16216"
+   name=""
+   committed-date="2006-09-25T08:48:47.015036Z"
+   url="svn://uclibc.org/trunk/buildroot/package/valgrind"
+   last-author="jacmet"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="11060"
+   name="valgrind.sh"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2005-08-08T11:48:35.645057Z"
+   checksum="cd0263b2cfe344d26fcf6bb86617f2d9"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="15797"
+   name="valgrind.patch"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2006-08-10T20:21:33.217764Z"
+   checksum="1d190773bec2df0fbab913b445acaf33"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="11060"
+   name="uclibc.supp"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2005-08-08T11:48:35.645057Z"
+   checksum="0141479125781c644d9d4830e44b872c"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="16216"
+   name="Config.in"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2006-09-25T08:48:47.015036Z"
+   checksum="434dec45fa8986f87191ca13e1737fe1"
+   last-author="jacmet"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="16216"
+   name="valgrind.mk"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2006-09-25T08:48:47.015036Z"
+   checksum="873b638123fde4b890df10a8327beca6"
+   last-author="jacmet"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+</wc-entries>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16218"
+   name=""
+   committed-date="2006-09-25T13:37:13.000638Z"
+   url="svn://uclibc.org/trunk/buildroot/package/dillo"
+   last-author="jacmet"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="16151"
+   name="dillo.mk"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-09-19T14:19:32.639126Z"
+   checksum="37f65cff3f0b76cd534cf3c310524c6b"
+   last-author="jacmet"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="16218"
+   name="Config.in"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-09-25T13:37:13.000638Z"
+   checksum="43c3767d4e74ec806c78016aefeee725"
+   last-author="jacmet"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+</wc-entries>

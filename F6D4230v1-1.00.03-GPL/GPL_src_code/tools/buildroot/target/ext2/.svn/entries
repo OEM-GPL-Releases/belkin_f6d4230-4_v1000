@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16282"
+   name=""
+   committed-date="2006-10-01T15:17:52.981074Z"
+   url="svn://uclibc.org/trunk/buildroot/target/ext2"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="9931"
+   name="genext2fs-02-nosquash_devtable.patch"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2005-02-25T00:57:48.206188Z"
+   checksum="94823e8bd23948c971804e8a96e602a6"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   committed-rev="11407"
+   name="Config.in"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2005-09-09T00:12:13.381328Z"
+   checksum="d7fd53cc98cbce70df9990fbf23063b6"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   committed-rev="16282"
+   name="ext2root.mk"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2006-10-01T15:17:52.981074Z"
+   checksum="a15f45cfc6053e8b831de53698ad7f97"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   committed-rev="9931"
+   name="genext2fs-01-cvs-updates.patch"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2005-02-25T00:57:48.206188Z"
+   checksum="e118d162f29bd218fd6632083d04b982"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+</wc-entries>

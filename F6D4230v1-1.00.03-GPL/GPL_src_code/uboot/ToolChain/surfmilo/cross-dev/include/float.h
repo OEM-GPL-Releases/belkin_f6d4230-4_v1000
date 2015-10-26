@@ -1,0 +1,1 @@
+../usr/lib/gcc-lib/mips-linux/3.3.3/include/float.h

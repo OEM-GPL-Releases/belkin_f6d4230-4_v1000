@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="15665"
+   name=""
+   committed-date="2006-07-08T23:56:47.552395Z"
+   url="svn://uclibc.org/trunk/buildroot/package/libpng"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="15665"
+   name="libpng.mk"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-07-08T23:56:47.552395Z"
+   checksum="9c4b59ff251ed2246ad9b2d0ab405d11"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="9565"
+   name="Config.in"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2004-12-14T01:18:23.000000Z"
+   checksum="ef3123ce0673651fe04f9e2e3aec639e"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+</wc-entries>

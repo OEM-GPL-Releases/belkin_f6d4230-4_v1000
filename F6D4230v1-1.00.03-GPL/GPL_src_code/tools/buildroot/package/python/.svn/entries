@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="12199"
+   name=""
+   committed-date="2005-11-10T02:52:42.614273Z"
+   url="svn://uclibc.org/trunk/buildroot/package/python"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="12199"
+   name="python.mk"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2005-11-10T02:52:42.614273Z"
+   checksum="13292209a7bd1a3144fd24d397d15d0b"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="9439"
+   name="Config.in"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2004-10-14T20:33:45.000000Z"
+   checksum="06a4289bee9ddfc6b90a8670a0e9e71d"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="9409"
+   name="python-disable_modules_and_ssl.patch"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2004-10-12T00:06:48.000000Z"
+   checksum="2c45af47b22d59f2231f3ae609573fd3"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="11134"
+   name="python-cross-compile.patch"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2005-08-13T02:45:34.818880Z"
+   checksum="ec1400ca4877399cae56ccefb72a200f"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="9409"
+   name="python-gentoo_py_dontcompile.patch"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2004-10-12T00:06:48.000000Z"
+   checksum="7808762bbf53647c7cd597be4044e9f7"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+</wc-entries>

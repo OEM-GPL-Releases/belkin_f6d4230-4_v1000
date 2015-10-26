@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16296"
+   name=""
+   committed-date="2006-10-03T13:42:42.817061Z"
+   url="svn://uclibc.org/trunk/buildroot/package/sudo"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="16296"
+   name="sudo.mk"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2006-10-03T13:42:42.817061Z"
+   checksum="d4aab24a4e8e977f563d5bdd6c8ffb50"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="14810"
+   name="sudo_1.6.8p9-2ubuntu2.3.patch"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2006-04-11T00:27:51.580555Z"
+   checksum="0458f806c841f7f978e46994cb4af9d9"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="15291"
+   name="sudo-crosscompile.patch"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2006-06-06T02:52:08.544790Z"
+   checksum="11f05023e207038c6b70a591c82ab923"
+   last-author="sjhill"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="14810"
+   name="Config.in"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2006-04-11T00:27:51.580555Z"
+   checksum="e1af6e70783ba981a879842db8c94b55"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+</wc-entries>

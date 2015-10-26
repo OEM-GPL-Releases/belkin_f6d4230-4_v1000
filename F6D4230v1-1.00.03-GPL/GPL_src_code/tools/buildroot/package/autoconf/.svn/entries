@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="15545"
+   name=""
+   committed-date="2006-06-30T00:31:39.016787Z"
+   url="svn://uclibc.org/trunk/buildroot/package/autoconf"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="15545"
+   name="autoconf.mk"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2006-06-30T00:31:39.016787Z"
+   checksum="40822870403736e169db6ba10328bb86"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="9614"
+   name="Config.in"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2004-12-24T09:23:11.000000Z"
+   checksum="381b6c11301a356e90f17b6fdf2f1c82"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+</wc-entries>

@@ -1,0 +1,5 @@
+/* GNU ld script
+   librt.so.1 needs libpthread.so.0 to come before libc.so.6*
+   in search scope.  */
+OUTPUT_FORMAT(elf32-tradbigmips)
+GROUP ( libpthread.so.0 librt.so.1 )

@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="14803"
+   name=""
+   committed-date="2006-04-10T21:26:27.147901Z"
+   url="svn://uclibc.org/trunk/buildroot/target/device/AMD/DBAu1500/target_skeleton/etc"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="9984"
+   name="services"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2005-03-09T08:35:06.583849Z"
+   checksum="9ebdc6f90a6070a1cdac5ecde97fbd33"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="9984"
+   name="inputrc"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2005-03-09T08:35:06.583849Z"
+   checksum="fa7934ef882bf912be9f11728f20e6d1"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="9984"
+   name="protocols"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2005-03-09T08:35:06.583849Z"
+   checksum="9712fa2a8eb070609cfdc1561be4bed8"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="9984"
+   name="shadow"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2005-03-09T08:35:06.583849Z"
+   checksum="66bd8d735a5604b9e69dc7a21b686d33"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   name="init.d"
+   kind="dir"/>
+<entry
+   committed-rev="9984"
+   name="securetty"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2005-03-09T08:35:06.583849Z"
+   checksum="ef516188987ffc16de9b6d63ea863ceb"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="9984"
+   name="issue"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2005-03-09T08:35:06.583849Z"
+   checksum="11eb4fc93b52a086c8de7397ef7ffd6f"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   name="network"
+   kind="dir"/>
+<entry
+   committed-rev="9984"
+   name="inittab"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2005-03-09T08:35:06.583849Z"
+   checksum="61c972e692a387ebbe9c29154a901617"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="11095"
+   name="group"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2005-08-10T10:14:53.838731Z"
+   checksum="2a06140859566037cad293ab1cd17c3c"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="9984"
+   name="TZ"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2005-03-09T08:35:06.583849Z"
+   checksum="ed17b2e81ef5d41c72bb723c48f883ec"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="9984"
+   name="random-seed"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2005-03-09T08:35:06.583849Z"
+   checksum="bab3fb7c9a63348300cf7dc080cee92d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="9984"
+   name="resolv.conf"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2005-03-09T08:35:06.583849Z"
+   checksum="4c87ce4d650b6d0db6bb3854d5b6bcfc"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="9984"
+   name="fstab"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2005-03-09T08:35:06.583849Z"
+   checksum="5766efd00476cd657562d4be66699fce"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="11095"
+   name="profile"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2005-08-10T10:14:53.838731Z"
+   checksum="fdc8c67548463cf0dff141dbcf9c3fab"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="9984"
+   name="hosts"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2005-03-09T08:35:06.583849Z"
+   checksum="4291fb00ec609b5b007ff9b3048e9248"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="9984"
+   name="passwd"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2005-03-09T08:35:06.583849Z"
+   checksum="253a7a365d49bcc647912426f589b085"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="9984"
+   name="hostname"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2005-03-09T08:35:06.583849Z"
+   checksum="0f1fd5849f258f49c08d6e96abec08e7"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+</wc-entries>

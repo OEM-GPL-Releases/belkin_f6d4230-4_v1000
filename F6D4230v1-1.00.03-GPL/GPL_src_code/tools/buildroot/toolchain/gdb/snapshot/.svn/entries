@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="15981"
+   name=""
+   committed-date="2006-08-24T19:46:55.544791Z"
+   url="svn://uclibc.org/trunk/buildroot/toolchain/gdb/snapshot"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="11475"
+   name="400-mips-coredump.patch-2.4.23-29"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-09-16T04:47:53.424094Z"
+   checksum="aaf2d65bcbffa034ea09aeeb434c3770"
+   last-author="sjhill"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="15980"
+   name="680-debian_sim-destdir.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2006-08-24T19:45:47.179308Z"
+   checksum="4eb696bc84d9156bd74eba5364dca416"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="11475"
+   name="100-uclibc-conf.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-09-16T04:47:53.424094Z"
+   checksum="acbde366395e07335b9b469e9870fa9f"
+   last-author="sjhill"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="11475"
+   name="690-debian_member-field-symtab.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-09-16T04:47:53.424094Z"
+   checksum="e557664686a2fa7d67a0d847bfac2b23"
+   last-author="sjhill"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="11475"
+   name="200-uclibc-readline-conf.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-09-16T04:47:53.424094Z"
+   checksum="3903c655f3f6ce0a12cba6e7eb083fa5"
+   last-author="sjhill"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="11475"
+   name="500-thread-timeout.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-09-16T04:47:53.424094Z"
+   checksum="fc49553ba52f520229f6840523e25e23"
+   last-author="sjhill"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="11475"
+   name="400-mips-nptl-support.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-09-16T04:47:53.424094Z"
+   checksum="5d5997aece75f137033f286681babc46"
+   last-author="sjhill"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+</wc-entries>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16282"
+   name=""
+   committed-date="2006-10-01T15:17:52.981074Z"
+   url="svn://uclibc.org/trunk/buildroot/package/bind"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="16282"
+   name="bind.mk"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2006-10-01T15:17:52.981074Z"
+   checksum="86f7f59569752ee46b3b6103702c8442"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="14864"
+   name="bind.sysvinit"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2006-04-14T19:25:54.903319Z"
+   checksum="ebc3992de5489d9d25fde30013ccdc4b"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="14864"
+   name="bind-cross-fix.patch"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2006-04-14T19:25:54.903319Z"
+   checksum="c9e366ed67eac62d7bdbd5c9b25cd44f"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="13611"
+   name="Config.in"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2006-01-25T20:56:55.006773Z"
+   checksum="d3375f1ecdccbe932887cb6a9a141e49"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+</wc-entries>

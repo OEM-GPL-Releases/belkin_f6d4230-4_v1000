@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="13526"
+   name=""
+   committed-date="2006-01-23T20:13:15.140823Z"
+   url="svn://uclibc.org/trunk/buildroot/target/device/Soekris/net4801"
+   last-author="prpplague"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="13526"
+   name="busybox.config"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2006-01-23T20:13:15.140823Z"
+   checksum="6565309309066c51222a095daa85c44f"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="13526"
+   name="linux.config"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2006-01-23T20:13:15.140823Z"
+   checksum="c4da6e4a56d0b53f56cbb286e2372605"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="13526"
+   name="linux.mk"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2006-01-23T20:13:15.140823Z"
+   checksum="7ca7f727a31ede9825e10d175ff988e5"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="13526"
+   name="uClibc.config"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2006-01-23T20:13:15.140823Z"
+   checksum="1cc35c0f5db604225dadd8b99ba7968d"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+</wc-entries>

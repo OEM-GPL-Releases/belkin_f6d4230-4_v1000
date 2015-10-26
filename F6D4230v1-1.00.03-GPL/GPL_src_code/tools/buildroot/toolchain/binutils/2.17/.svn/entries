@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16213"
+   name=""
+   committed-date="2006-09-24T21:29:13.165079Z"
+   url="svn://uclibc.org/trunk/buildroot/toolchain/binutils/2.17"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="12961"
+   name="300-012_check_ldrunpath_length.patch"
+   text-time="2006-10-24T01:01:57.000000Z"
+   committed-date="2005-12-20T23:53:35.979035Z"
+   checksum="d84a80f516ac836fb86e79cb0d024821"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:01:57.000000Z"/>
+<entry
+   committed-rev="14556"
+   name="100-uclibc-conf.patch"
+   text-time="2006-10-24T01:01:57.000000Z"
+   committed-date="2006-03-18T02:48:49.980164Z"
+   checksum="78aedca7c3c0079f361f28104785556d"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:01:57.000000Z"/>
+<entry
+   committed-rev="12961"
+   name="300-006_better_file_error.patch"
+   text-time="2006-10-24T01:01:57.000000Z"
+   committed-date="2005-12-20T23:53:35.979035Z"
+   checksum="f126c418c01afa8e400350a235cfa6c6"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:01:57.000000Z"/>
+<entry
+   committed-rev="12961"
+   name="400-mips-ELF_MAXPAGESIZE-4K.patch"
+   text-time="2006-10-24T01:01:57.000000Z"
+   committed-date="2005-12-20T23:53:35.979035Z"
+   checksum="80150c2e6ef1dbb506c6272a95da3ccc"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:01:57.000000Z"/>
+<entry
+   committed-rev="12961"
+   name="300-001_ld_makefile_patch.patch"
+   text-time="2006-10-24T01:01:57.000000Z"
+   committed-date="2005-12-20T23:53:35.979035Z"
+   checksum="512f8c903e1f50f0b8f03ac3ff336f5d"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:01:57.000000Z"/>
+<entry
+   committed-rev="15290"
+   name="110-arm-eabi-conf.patch"
+   text-time="2006-10-24T01:01:57.000000Z"
+   committed-date="2006-06-05T22:11:01.694309Z"
+   checksum="fa836a9866c753be640f37aa0f06c12c"
+   last-author="lethal"
+   kind="file"
+   prop-time="2006-10-24T01:01:57.000000Z"/>
+</wc-entries>

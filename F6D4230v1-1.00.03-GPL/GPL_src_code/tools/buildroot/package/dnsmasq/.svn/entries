@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16282"
+   name=""
+   committed-date="2006-10-01T15:17:52.981074Z"
+   url="svn://uclibc.org/trunk/buildroot/package/dnsmasq"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="9368"
+   name="dnsmasq1-100-bugfix.patch"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2004-10-09T02:49:33.000000Z"
+   checksum="d6641333de34655d6b76f3e6f31d263b"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="9368"
+   name="dnsmasq2-100-config.patch"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2004-10-09T02:49:33.000000Z"
+   checksum="4558bbc368b1beff834ae8987b9fd3b4"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="9439"
+   name="Config.in"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2004-10-14T20:33:45.000000Z"
+   checksum="4d1ecca6fec1c7ba6c273330ab7bd28d"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="16282"
+   name="dnsmasq.mk"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-10-01T15:17:52.981074Z"
+   checksum="bd90d49224377b8d5d43e9388fdc458f"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+</wc-entries>

@@ -1,0 +1,8 @@
+How to build the image?
+	./buildGPL.sh
+	You can get the new fw image in firmware/images/ and you can download it into board via web.
+
+Note:
+1. In the compile progress, if some prompt occur, just use default setting by click "Enter"
+2. sudo should be supported
+

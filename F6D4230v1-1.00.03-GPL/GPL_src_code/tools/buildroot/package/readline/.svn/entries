@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16282"
+   name=""
+   committed-date="2006-10-01T15:17:52.981074Z"
+   url="svn://uclibc.org/trunk/buildroot/package/readline"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="14573"
+   name="readline51-001"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-03-19T08:53:49.382276Z"
+   checksum="c0afe2fbb05b57845b7508888c07d7b5"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="14573"
+   name="readline51-002"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-03-19T08:53:49.382276Z"
+   checksum="3816eba40322a2bbcb69911db0b91167"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="16282"
+   name="readline.mk"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-10-01T15:17:52.981074Z"
+   checksum="ae64e6ecf45cee4394829a08f5fc3d44"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="14573"
+   name="readline51-003"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-03-19T08:53:49.382276Z"
+   checksum="66e95667bd74ad0bd2490251f346531e"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="10570"
+   name="Config.in"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2005-06-23T22:49:33.737292Z"
+   checksum="708549238dc2870972fdf677e3c059b9"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="14617"
+   name="readline51-004"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-03-23T03:04:47.636517Z"
+   checksum="89656fd6845d135cc42e9d94409b5267"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+</wc-entries>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11014"
+   name=""
+   committed-date="2005-08-01T21:13:40.695470Z"
+   url="svn://uclibc.org/trunk/buildroot/target/device/Via/epia-mii"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="10567"
+   name="linux.config"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2005-06-23T21:34:25.230095Z"
+   checksum="b8bf0e2b0b634f8faac1a5643edd4402"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="11014"
+   name="linux.mk"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2005-08-01T21:13:40.695470Z"
+   checksum="e33a143a4a484092879e73483913f335"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+</wc-entries>

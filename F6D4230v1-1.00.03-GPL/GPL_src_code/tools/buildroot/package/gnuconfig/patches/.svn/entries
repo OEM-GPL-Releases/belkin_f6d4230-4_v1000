@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="14424"
+   name=""
+   committed-date="2006-03-02T06:24:19.565803Z"
+   url="svn://uclibc.org/trunk/buildroot/package/gnuconfig/patches"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="14424"
+   name="config.sub.sh.patch"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2006-03-02T06:24:19.565803Z"
+   checksum="f6e4a79b31f84764f5ecfec9154350f9"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="14423"
+   name="config.guess.uclibc.patch"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2006-03-02T06:18:02.238949Z"
+   checksum="21cf58340c253c8266c8c0ac6a316213"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="14423"
+   name="config.sub.ps2.patch"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2006-03-02T06:18:02.238949Z"
+   checksum="220f71437dbfad0e0422fa324c392f6e"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+</wc-entries>

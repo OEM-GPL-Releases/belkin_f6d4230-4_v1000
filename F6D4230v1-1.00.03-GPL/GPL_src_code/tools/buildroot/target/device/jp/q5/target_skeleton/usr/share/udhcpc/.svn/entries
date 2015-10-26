@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="13601"
+   name=""
+   committed-date="2006-01-25T14:59:21.425037Z"
+   url="svn://uclibc.org/trunk/buildroot/target/device/jp/q5/target_skeleton/usr/share/udhcpc"
+   last-author="prpplague"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="13601"
+   name="default.script"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2006-01-25T14:59:21.425037Z"
+   checksum="0869726c3fdd7a10f9ea5b368a9474a0"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+</wc-entries>

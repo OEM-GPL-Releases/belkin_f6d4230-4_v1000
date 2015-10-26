@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="13011"
+   name=""
+   committed-date="2005-12-29T11:19:18.832378Z"
+   url="svn://uclibc.org/trunk/buildroot/package/openssl"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="10050"
+   name="openssl.patch"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2005-03-21T02:35:50.075573Z"
+   checksum="0a80be9ccb8d803cf52fc1c8e79d601f"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="11109"
+   name="openssl-nodocs.patch"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2005-08-11T21:56:17.098444Z"
+   checksum="954a429f7d68a9b59a967e1e66b3c044"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="10049"
+   name="openssl-0.9.7e-no-fips.patch"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2005-03-21T02:35:10.519552Z"
+   checksum="53599279769faf50e5247b68d2907b10"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="13011"
+   name="openssl.mk"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2005-12-29T11:19:18.832378Z"
+   checksum="bf8b81b3c315222e0f2ad0b47ddf7eb0"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="10797"
+   name="Config.in"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2005-07-12T19:53:12.737377Z"
+   checksum="4e4d33b69a7379334e400f4877901913"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+</wc-entries>

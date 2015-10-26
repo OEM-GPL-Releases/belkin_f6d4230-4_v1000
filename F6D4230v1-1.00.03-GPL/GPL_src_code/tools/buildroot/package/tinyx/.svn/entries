@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="15755"
+   name=""
+   committed-date="2006-07-27T18:30:24.865629Z"
+   url="svn://uclibc.org/trunk/buildroot/package/tinyx"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="15755"
+   name="tinyx.mk"
+   text-time="2006-10-24T01:02:08.000000Z"
+   committed-date="2006-07-27T18:30:24.865629Z"
+   checksum="8a2615e3afcde98969c5c618ee1138b7"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:08.000000Z"/>
+<entry
+   committed-rev="10312"
+   name="tinyx-build.patch"
+   text-time="2006-10-24T01:02:08.000000Z"
+   committed-date="2005-05-12T22:24:13.925549Z"
+   checksum="6dd68cab9c59cfe0fc9eaa11bfc02105"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:08.000000Z"/>
+<entry
+   committed-rev="10312"
+   name="tinyx-011010.patch"
+   text-time="2006-10-24T01:02:08.000000Z"
+   committed-date="2005-05-12T22:24:13.925549Z"
+   checksum="44955924e1eab58c6ee45c00bd735692"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:08.000000Z"/>
+<entry
+   committed-rev="9615"
+   name="Config.in"
+   text-time="2006-10-24T01:02:08.000000Z"
+   committed-date="2004-12-24T09:39:23.000000Z"
+   checksum="c648b5a64c635a76629bf7c515c8b6fa"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:08.000000Z"/>
+<entry
+   committed-rev="10312"
+   name="tinyx-config.patch"
+   text-time="2006-10-24T01:02:08.000000Z"
+   committed-date="2005-05-12T22:24:13.925549Z"
+   checksum="8714fb53550ce8b0b6c81fd1e7fad99d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:08.000000Z"/>
+</wc-entries>

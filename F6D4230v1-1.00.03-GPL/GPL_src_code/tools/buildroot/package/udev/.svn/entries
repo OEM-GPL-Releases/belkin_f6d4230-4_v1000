@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="15489"
+   name=""
+   committed-date="2006-06-23T07:05:02.415470Z"
+   url="svn://uclibc.org/trunk/buildroot/package/udev"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="14772"
+   name="udev-fix-s3c2410-serial-perms.patch"
+   text-time="2006-10-24T01:02:08.000000Z"
+   committed-date="2006-04-06T18:21:51.754159Z"
+   checksum="d184529d3000a1f43bcbfce6115246c5"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="10487"
+   name="init-udev"
+   text-time="2006-10-24T01:02:08.000000Z"
+   committed-date="2005-06-09T11:16:29.960702Z"
+   checksum="3c7615b8dbd85269fdf5bf7b6f6789bb"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="15489"
+   name="udev.mk"
+   text-time="2006-10-24T01:02:08.000000Z"
+   committed-date="2006-06-23T07:05:02.415470Z"
+   checksum="99967a5961753a01d683d44595e344ee"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:08.000000Z"/>
+<entry
+   committed-rev="10012"
+   name="Config.in"
+   text-time="2006-10-24T01:02:08.000000Z"
+   committed-date="2005-03-15T19:16:00.855945Z"
+   checksum="9813ab5163c17305dfb10d285b7a7390"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:08.000000Z"/>
+</wc-entries>

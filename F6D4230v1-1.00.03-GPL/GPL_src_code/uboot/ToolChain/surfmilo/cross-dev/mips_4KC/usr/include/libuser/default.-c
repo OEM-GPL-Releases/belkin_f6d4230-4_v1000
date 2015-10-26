@@ -1,0 +1,205 @@
+/*
+ * Copyright (C) 2000-2002 Red Hat, Inc.
+ *
+ * This is free software; you can redistribute it and/or modify it under
+ * the terms of the GNU Library General Public License as published by
+ * the Free Software Foundation; either version 2 of the License, or
+ * (at your option) any later version.
+ *
+ * This program is distributed in the hope that it will be useful, but
+ * WITHOUT ANY WARRANTY; without even the implied warranty of
+ * MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the GNU
+ * General Public License for more details.
+ *
+ * You should have received a copy of the GNU Library General Public
+ * License along with this program; if not, write to the Free Software
+ * Foundation, Inc., 675 Mass Ave, Cambridge, MA 02139, USA.
+ */
+
+/* This file contains functions suitable for inclusion in modules, for
+   initializing user and group records. */
+
+#ident "$Id: default.-c,v 1.7 2003/02/19 03:35:21 nalin Exp $"
+
+#include <sys/param.h>
+#include <stdio.h>
+#include <stdlib.h>
+#include <glib.h>
+#include <glib-object.h>
+#include <string.h>
+
+/* Define _LIBUSER_MODULE if your module is being built alongside libuser. */
+#ifdef _LIBUSER_MODULE
+#include "../lib/user_private.h"
+#else
+#include <libuser/user_private.h>
+#endif
+
+#define DEFAULT_PASSWORD	"!!"
+#define DEFAULT_SHADOW_PASSWORD	"x"
+#define DEFAULT_SHELL		"/bin/bash"
+
+/* Populate the fields of a user structure with non-name, non-ID data. */
+static gboolean
+lu_common_user_default(struct lu_module *module,
+		       const char *name, gboolean is_system,
+		       struct lu_ent *ent, struct lu_error **error)
+{
+	GValue value;
+	char *tmp;
+	g_return_val_if_fail(name != NULL, FALSE);
+	memset(&value, 0, sizeof(value));
+	if (lu_ent_get(ent, LU_USERPASSWORD) == NULL) {
+		g_value_init(&value, G_TYPE_STRING);
+		g_value_set_string(&value, DEFAULT_PASSWORD);
+		lu_ent_add(ent, LU_USERPASSWORD, &value);
+		g_value_unset(&value);
+	}
+	if (lu_ent_get(ent, LU_SHADOWPASSWORD) == NULL) {
+		g_value_init(&value, G_TYPE_STRING);
+		g_value_set_string(&value, DEFAULT_PASSWORD);
+		lu_ent_add(ent, LU_SHADOWPASSWORD, &value);
+		g_value_unset(&value);
+	}
+	if (lu_ent_get(ent, LU_GECOS) == NULL) {
+		g_value_init(&value, G_TYPE_STRING);
+		g_value_set_string(&value, name);
+		lu_ent_add(ent, LU_GECOS, &value);
+		g_value_unset(&value);
+	}
+	if (lu_ent_get(ent, LU_HOMEDIRECTORY) == NULL) {
+		g_value_init(&value, G_TYPE_STRING);
+		tmp = g_strdup_printf("/home/%s", name);
+		g_value_set_string(&value, tmp);
+		g_free(tmp);
+		lu_ent_add(ent, LU_HOMEDIRECTORY, &value);
+		g_value_unset(&value);
+	}
+	if (lu_ent_get(ent, LU_LOGINSHELL) == NULL) {
+		g_value_init(&value, G_TYPE_STRING);
+		g_value_set_string(&value, DEFAULT_SHELL);
+		lu_ent_add(ent, LU_LOGINSHELL, &value);
+		g_value_unset(&value);
+	}
+	return TRUE;
+}
+
+/* Populate the fields of a group structure with non-name, non-ID data. */
+static gboolean
+lu_common_group_default(struct lu_module *module,
+		        const char *name, gboolean is_system,
+		        struct lu_ent *ent, struct lu_error **error)
+{
+	GValue value;
+	g_return_val_if_fail(name != NULL, FALSE);
+	memset(&value, 0, sizeof(value));
+	if (lu_ent_get(ent, LU_SHADOWPASSWORD) == NULL) {
+		g_value_init(&value, G_TYPE_STRING);
+		g_value_set_string(&value, DEFAULT_PASSWORD);
+		lu_ent_add(ent, LU_SHADOWPASSWORD, &value);
+		g_value_unset(&value);
+	}
+	return TRUE;
+}
+
+/* Populate the fields of a user structure with non-name, non-ID data. */
+static gboolean
+lu_common_suser_default(struct lu_module *module,
+		        const char *name, gboolean is_system,
+		        struct lu_ent *ent, struct lu_error **error)
+{
+	GValue value;
+	const char *today;
+	g_return_val_if_fail(name != NULL, FALSE);
+	today = lu_util_shadow_current_date(ent->cache);
+	memset(&value, 0, sizeof(value));
+	if (lu_ent_get(ent, LU_SHADOWPASSWORD) == NULL) {
+		g_value_init(&value, G_TYPE_STRING);
+		g_value_set_string(&value, DEFAULT_PASSWORD);
+		lu_ent_add(ent, LU_SHADOWPASSWORD, &value);
+		g_value_unset(&value);
+	}
+	if (lu_ent_get(ent, LU_SHADOWLASTCHANGE) == NULL) {
+		g_value_init(&value, G_TYPE_STRING);
+		g_value_set_string(&value, today);
+		lu_ent_add(ent, LU_SHADOWLASTCHANGE, &value);
+		g_value_unset(&value);
+	}
+	if (lu_ent_get(ent, LU_SHADOWMIN) == NULL) {
+		g_value_init(&value, G_TYPE_LONG);
+		g_value_set_long(&value, 0);
+		lu_ent_add(ent, LU_SHADOWMIN, &value);
+		g_value_unset(&value);
+	}
+	if (lu_ent_get(ent, LU_SHADOWMAX) == NULL) {
+		g_value_init(&value, G_TYPE_LONG);
+		g_value_set_long(&value, 99999);
+		lu_ent_add(ent, LU_SHADOWMAX, &value);
+		g_value_unset(&value);
+	}
+	if (lu_ent_get(ent, LU_SHADOWWARNING) == NULL) {
+		g_value_init(&value, G_TYPE_LONG);
+		g_value_set_long(&value, 7);
+		lu_ent_add(ent, LU_SHADOWWARNING, &value);
+		g_value_unset(&value);
+	}
+	if (lu_ent_get(ent, LU_SHADOWINACTIVE) == NULL) {
+		g_value_init(&value, G_TYPE_LONG);
+		g_value_set_long(&value, -1);
+		lu_ent_add(ent, LU_SHADOWINACTIVE, &value);
+		g_value_unset(&value);
+	}
+	if (lu_ent_get(ent, LU_SHADOWEXPIRE) == NULL) {
+		g_value_init(&value, G_TYPE_LONG);
+		g_value_set_long(&value, -1);
+		lu_ent_add(ent, LU_SHADOWEXPIRE, &value);
+		g_value_unset(&value);
+	}
+	if (lu_ent_get(ent, LU_SHADOWFLAG) == NULL) {
+		g_value_init(&value, G_TYPE_LONG);
+		g_value_set_long(&value, -1);
+		lu_ent_add(ent, LU_SHADOWFLAG, &value);
+		g_value_unset(&value);
+	}
+	return TRUE;
+}
+
+static gboolean
+lu_common_sgroup_default(struct lu_module *module,
+		         const char *name, gboolean is_system,
+		         struct lu_ent *ent, struct lu_error **error)
+{
+	g_return_val_if_fail(name != NULL, FALSE);
+	return lu_common_group_default(module, name, is_system, ent, error);
+}
+
+static const char *salt_initializer_des = "";
+static const char *salt_initializer_md5 = "$1$";
+static const char *salt_initializer_blowfish = "$2a$";
+
+static const char *
+lu_common_default_salt_specifier(struct lu_module *module)
+{
+	const struct {
+		const char *name, *initializer;
+	} salt_types[] = {
+		{"des", salt_initializer_des},
+		{"md5", salt_initializer_md5},
+		{"blowfish", salt_initializer_blowfish},
+	};
+	const char *salt_type = NULL;
+	int i;
+
+	g_return_val_if_fail(module != NULL, "");
+
+	salt_type = lu_cfg_read_single(module->lu_context,
+				       "defaults/crypt_style",
+				       "des");
+
+	for (i = 0; i < G_N_ELEMENTS(salt_types); i++) {
+		if (strcasecmp(salt_types[i].name, salt_type) == 0) {
+			return salt_types[i].initializer;
+		}
+	}
+	return "";
+}

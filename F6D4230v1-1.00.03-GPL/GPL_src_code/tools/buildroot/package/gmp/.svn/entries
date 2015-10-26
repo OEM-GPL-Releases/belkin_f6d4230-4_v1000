@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16250"
+   name=""
+   committed-date="2006-09-28T17:38:06.153830Z"
+   url="svn://uclibc.org/trunk/buildroot/package/gmp"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="16250"
+   name="gmp.mk"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2006-09-28T17:38:06.153830Z"
+   checksum="5f0dd83f7a2dca71458bc2021748f865"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="16250"
+   name="Config.in"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2006-09-28T17:38:06.153830Z"
+   checksum="acd54c7b36c60824f2a57b762d5d9c93"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+</wc-entries>

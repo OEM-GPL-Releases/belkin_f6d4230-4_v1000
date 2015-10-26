@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16400"
+   name=""
+   committed-date="2006-10-17T16:57:49.676206Z"
+   url="svn://uclibc.org/trunk/buildroot/target/device/AMD"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   name="DBAu1500"
+   kind="dir"/>
+<entry
+   committed-rev="9984"
+   name="Makefile.in"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2005-03-09T08:35:06.583849Z"
+   checksum="b2bfcf72e9705480d88db174b4e498b2"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="10232"
+   name="Config.in"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2005-05-02T20:39:12.175022Z"
+   checksum="69644bcec02eefa164de63785baa9526"
+   last-author="lethal"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+</wc-entries>

@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="14867"
+   name=""
+   committed-date="2006-04-14T19:57:28.645952Z"
+   url="svn://uclibc.org/trunk/buildroot/target/device/jp/q5"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   name="kernel-patches-2.4.29"
+   kind="dir"/>
+<entry
+   committed-rev="13601"
+   name="busybox.config"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2006-01-25T14:59:21.425037Z"
+   checksum="0f595099f028e158e9bf35a1db40aa19"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="13601"
+   name="Makefile.in"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2006-01-25T14:59:21.425037Z"
+   checksum="526442b495a852caae715b43fd74ec5a"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="14867"
+   name="skel.tar.gz"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2006-04-14T19:57:28.645952Z"
+   checksum="6d24703a93e03447788191f6d1cc5f72"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="13900"
+   name="linux.config"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2006-02-10T18:00:56.343132Z"
+   checksum="c4c3ce8629901c508f1fdbbe1ae3c7a5"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="13601"
+   name="device_table.txt"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2006-01-25T14:59:21.425037Z"
+   checksum="41afcb4cc9b9561e629e56e59a9f796b"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="14826"
+   name="linux.mk"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2006-04-12T00:44:57.251450Z"
+   checksum="e6c2a8c042364433259bdcbe2b765e5d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   name="kernel-patches-2.4.32"
+   kind="dir"/>
+<entry
+   name="target_skeleton"
+   kind="dir"/>
+<entry
+   name="kernel-patches-2.4.26"
+   kind="dir"/>
+<entry
+   committed-rev="13900"
+   name="uClibc.config.mipsel"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2006-02-10T18:00:56.343132Z"
+   checksum="5841c8a67b62ccdf54fc3685417db573"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+</wc-entries>

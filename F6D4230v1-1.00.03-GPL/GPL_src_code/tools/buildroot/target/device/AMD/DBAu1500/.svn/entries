@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16400"
+   name=""
+   committed-date="2006-10-17T16:57:49.676206Z"
+   url="svn://uclibc.org/trunk/buildroot/target/device/AMD/DBAu1500"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="10491"
+   name="busybox.config"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2005-06-09T12:03:40.045576Z"
+   checksum="0f595099f028e158e9bf35a1db40aa19"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="10082"
+   name="Makefile.in"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2005-04-12T20:32:45.660419Z"
+   checksum="4ce0b7e019650c8e7f4e355ea87483ed"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="14867"
+   name="skel.tar.gz"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2006-04-14T19:57:28.645952Z"
+   checksum="6d24703a93e03447788191f6d1cc5f72"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="15490"
+   name="linux.config"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2006-06-23T07:06:48.441275Z"
+   checksum="65693783f162c941b1eecedc54b4d1f7"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="9984"
+   name="device_table.txt"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2005-03-09T08:35:06.583849Z"
+   checksum="41afcb4cc9b9561e629e56e59a9f796b"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   name="kernel-patches"
+   kind="dir"/>
+<entry
+   committed-rev="15497"
+   name="linux.mk"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2006-06-23T16:43:52.371451Z"
+   checksum="9912525f7b9241f020c92e37704f6bf2"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   name="target_skeleton"
+   kind="dir"/>
+<entry
+   committed-rev="16400"
+   name="uClibc.config.mips"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2006-10-17T16:57:49.676206Z"
+   checksum="4cabb42192f90d4769fe7bdd08e6d727"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="16400"
+   name="uClibc.config.mipsel"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2006-10-17T16:57:49.676206Z"
+   checksum="8280282299c72a5d5d837d9651d84134"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+</wc-entries>

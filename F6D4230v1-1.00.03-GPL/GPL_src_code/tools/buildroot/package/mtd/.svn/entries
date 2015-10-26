@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16329"
+   name=""
+   committed-date="2006-10-07T06:28:23.520303Z"
+   url="svn://uclibc.org/trunk/buildroot/package/mtd"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="11208"
+   name="mtd.patch"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2005-08-18T23:08:19.355046Z"
+   checksum="a1d74419faa34d6c1eb7295ae8297f7d"
+   last-author="sjhill"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="16329"
+   name="Config.in"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2006-10-07T06:28:23.520303Z"
+   checksum="d831ef65520df3b43c8d1da9a15b8a22"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="16319"
+   name="mtd.mk"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2006-10-06T13:01:29.689016Z"
+   checksum="58a34928908d89e8efceb29968fee45f"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+</wc-entries>

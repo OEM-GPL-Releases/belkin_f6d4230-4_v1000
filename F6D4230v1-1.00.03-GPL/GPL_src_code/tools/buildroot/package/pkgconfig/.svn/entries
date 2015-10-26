@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16282"
+   name=""
+   committed-date="2006-10-01T15:17:52.981074Z"
+   url="svn://uclibc.org/trunk/buildroot/package/pkgconfig"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="16012"
+   name="configure.patch"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-08-29T16:41:22.651516Z"
+   checksum="d9982c7e3b405995fb1bb42f29ddde73"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="15664"
+   name="glibconfig-sysdefs.patch"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-07-08T23:55:55.558271Z"
+   checksum="e8d80bb34abae3ced0837ab512a228e9"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="15664"
+   name="Config.in"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-07-08T23:55:55.558271Z"
+   checksum="1f14d8b07a33a1c59d4f608aa1a960df"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="16282"
+   name="pkgconfig.mk"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-10-01T15:17:52.981074Z"
+   checksum="ed422db4256146172d75d337d0e117ac"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+</wc-entries>

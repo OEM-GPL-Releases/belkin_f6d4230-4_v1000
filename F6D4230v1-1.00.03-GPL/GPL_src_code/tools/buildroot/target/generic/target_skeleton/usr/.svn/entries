@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="12150"
+   name=""
+   committed-date="2005-11-04T16:50:28.849623Z"
+   url="svn://uclibc.org/trunk/buildroot/target/generic/target_skeleton/usr"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   name="share"
+   kind="dir"/>
+</wc-entries>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="13012"
+   name=""
+   committed-date="2005-12-29T11:27:31.409343Z"
+   url="svn://uclibc.org/trunk/buildroot/package/util-linux"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="13012"
+   name="util-linux.mk"
+   text-time="2006-10-24T01:02:08.000000Z"
+   committed-date="2005-12-29T11:27:31.409343Z"
+   checksum="27699a2e7e184010d04f3e304a966c0b"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:08.000000Z"/>
+<entry
+   committed-rev="11746"
+   name="util-linux-gcc41.patch"
+   text-time="2006-10-24T01:02:08.000000Z"
+   committed-date="2005-10-04T01:30:01.408873Z"
+   checksum="dfe31b15db74f2606f2c37a8378c523f"
+   last-author="sjhill"
+   kind="file"
+   prop-time="2006-10-24T01:02:08.000000Z"/>
+<entry
+   committed-rev="9439"
+   name="Config.in"
+   text-time="2006-10-24T01:02:08.000000Z"
+   committed-date="2004-10-14T20:33:45.000000Z"
+   checksum="b3b3bba7830f5f48988e6cdacd47944e"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:08.000000Z"/>
+</wc-entries>

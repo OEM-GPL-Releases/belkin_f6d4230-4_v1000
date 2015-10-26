@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="14424"
+   name=""
+   committed-date="2006-03-02T06:24:19.565803Z"
+   url="svn://uclibc.org/trunk/buildroot/package/gnuconfig"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="11049"
+   name="README.buildroot"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2005-08-04T22:42:34.999284Z"
+   checksum="30540d3e20c2f6cf2f111184d429f13b"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="13153"
+   name="gnuconfig.mk"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2006-01-08T09:55:59.102374Z"
+   checksum="f55d7f717247c108c2bc4f734db7399b"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="11049"
+   name="uname"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2005-08-04T22:42:34.999284Z"
+   checksum="c673cc0a7b995f4eb2aadf3ffdba2e1f"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   name="patches"
+   kind="dir"/>
+<entry
+   committed-rev="14423"
+   name="ChangeLog"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2006-03-02T06:18:02.238949Z"
+   checksum="14f57915b961a904aab4e3e23c84a4b1"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   name="testsuite"
+   kind="dir"/>
+<entry
+   committed-rev="14423"
+   name="config.guess"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2006-03-02T06:18:02.238949Z"
+   checksum="fda6c050f32c6e17f767df4681f58a68"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   name="CVS"
+   kind="dir"/>
+<entry
+   committed-rev="11049"
+   name=".cvsignore"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2005-08-04T22:42:34.999284Z"
+   checksum="87d5b31ab20b45da1d5698ca7527938e"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="11049"
+   name="Makefile"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2005-08-04T22:42:34.999284Z"
+   checksum="b7ef2cb71df498f6658a39d24126febc"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="14423"
+   name="config.sub"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2006-03-02T06:18:02.238949Z"
+   checksum="31bda4a9db52f6cefff35f02a48920b4"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+</wc-entries>

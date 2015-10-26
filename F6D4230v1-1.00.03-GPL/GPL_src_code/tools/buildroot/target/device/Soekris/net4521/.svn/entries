@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="15166"
+   name=""
+   committed-date="2006-05-24T18:26:46.354358Z"
+   url="svn://uclibc.org/trunk/buildroot/target/device/Soekris/net4521"
+   last-author="jacmet"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="9909"
+   name="busybox.config"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2005-02-17T19:01:52.750295Z"
+   checksum="6565309309066c51222a095daa85c44f"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="9906"
+   name="linux.config"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2005-02-17T18:49:52.723345Z"
+   checksum="58518cc1635d2eceacc6484c7f89ae87"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   name="kernel-patches"
+   kind="dir"/>
+<entry
+   committed-rev="10785"
+   name="linux.mk"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2005-07-11T21:53:23.210726Z"
+   checksum="76d92b6149a07c3a24989f57f5bb3da3"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="9909"
+   name="uClibc.config"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2005-02-17T19:01:52.750295Z"
+   checksum="1cc35c0f5db604225dadd8b99ba7968d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+</wc-entries>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="14803"
+   name=""
+   committed-date="2006-04-10T21:26:27.147901Z"
+   url="svn://uclibc.org/trunk/buildroot/target/generic/target_skeleton/etc/init.d"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="9368"
+   name="S40network"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2004-10-09T02:49:33.000000Z"
+   checksum="2fb79ef49f9107ae8336db99f5cc2d9b"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   committed-rev="9368"
+   name="rcS"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2004-10-09T02:49:33.000000Z"
+   checksum="76f02a748149f1aa945aa418ea65b2bc"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   committed-rev="14803"
+   name="S20urandom"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2006-04-10T21:26:27.147901Z"
+   checksum="87002c6061a544fe7a439c3d5d936822"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+</wc-entries>

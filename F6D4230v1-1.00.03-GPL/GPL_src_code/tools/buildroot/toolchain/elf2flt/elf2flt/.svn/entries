@@ -1,0 +1,178 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="13859"
+   name=""
+   committed-date="2006-02-06T05:05:14.584065Z"
+   url="svn://uclibc.org/trunk/buildroot/toolchain/elf2flt/elf2flt"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="13337"
+   name="elf2flt.c"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2006-01-15T02:53:23.481262Z"
+   checksum="5cfa4a1b5ffa34f63113de0877cce497"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="13220"
+   name="stubs.c"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2006-01-10T05:56:59.850549Z"
+   checksum="03908f687916347da0d4782ce5d08c18"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="13220"
+   name="configure"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2006-01-10T05:56:59.850549Z"
+   checksum="d321083c7314c88a2ef1da89459a1c14"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="13859"
+   name="Makefile.in"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2006-02-06T05:05:14.584065Z"
+   checksum="af702e5618231af71e9ce07ff7c45ed9"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="13859"
+   name="configure.in"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2006-02-06T05:05:14.584065Z"
+   checksum="42496e253c2da1c98f2ee5f9c270f5eb"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="13261"
+   name="maketarball.sh"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2006-01-13T08:01:50.189500Z"
+   checksum="c2baafb42e5c240e2b8e79c4f8e90e3f"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="13220"
+   name="config.guess"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2006-01-10T05:56:59.850549Z"
+   checksum="4955a2e2ba97cbc5425fc7f075ced0a3"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="13220"
+   name="cygwin-elf.h"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2006-01-10T05:56:59.850549Z"
+   checksum="5196260873657206f5a738fb7b3f2fa7"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   name="CVS"
+   kind="dir"/>
+<entry
+   committed-rev="13220"
+   name="elf2flt.ld"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2006-01-10T05:56:59.850549Z"
+   checksum="07b8dd8e555abf3e2b3c473ed128884a"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="13220"
+   name="README"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2006-01-10T05:56:59.850549Z"
+   checksum="2cd0ca808781de63ac303a9f44a09ecd"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="13220"
+   name="config.sub"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2006-01-10T05:56:59.850549Z"
+   checksum="c4d8fb408040852a3c5562c3e6349b24"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="13220"
+   name="e1-elf2flt.ld"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2006-01-10T05:56:59.850549Z"
+   checksum="c17b1b193a87e3f936db82266d4ce127"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="13859"
+   name="ld-elf2flt.in"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2006-02-06T05:05:14.584065Z"
+   checksum="50b26afafae031ae00fe2bffb8627a90"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="13220"
+   name="LICENSE.TXT"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2006-01-10T05:56:59.850549Z"
+   checksum="393a5ca445f6965873eca0259a17f833"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="13220"
+   name="flthdr.c"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2006-01-10T05:56:59.850549Z"
+   checksum="c40007e0bf7340e9c0103d66de543f74"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="13220"
+   name="flat.h"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2006-01-10T05:56:59.850549Z"
+   checksum="4b79509acc076a14dd7e0ee1a78ad4ce"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="13261"
+   name=".cvsignore"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2006-01-13T08:01:50.189500Z"
+   checksum="2f32e85ba31dd24a1aa9aae9ea130307"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="13220"
+   name="install-sh"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2006-01-10T05:56:59.850549Z"
+   checksum="6ccdbc15b7d4e16d8706cb7b93b42b15"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+</wc-entries>

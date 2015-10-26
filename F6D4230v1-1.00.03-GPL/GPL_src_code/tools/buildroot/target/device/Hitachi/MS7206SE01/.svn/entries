@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10239"
+   name=""
+   committed-date="2005-05-03T13:56:36.946842Z"
+   url="svn://uclibc.org/trunk/buildroot/target/device/Hitachi/MS7206SE01"
+   last-author="lethal"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="10239"
+   name="uClibc.config.sh2a_nofpueb"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2005-05-03T13:56:36.946842Z"
+   checksum="180c6e8f7ac7a926216396b26b965e25"
+   last-author="lethal"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="10239"
+   name="Makefile.in"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2005-05-03T13:56:36.946842Z"
+   checksum="40dc9f53a7e4c0e43f8e1750ce40650c"
+   last-author="lethal"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+</wc-entries>

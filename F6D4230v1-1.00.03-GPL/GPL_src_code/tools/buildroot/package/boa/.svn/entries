@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="14855"
+   name=""
+   committed-date="2006-04-14T18:28:35.431920Z"
+   url="svn://uclibc.org/trunk/buildroot/package/boa"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="9368"
+   name="boa.conf"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2004-10-09T02:49:33.000000Z"
+   checksum="63a2b7cfb20ae5d2af79187b319c256f"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="14855"
+   name="boa.mk"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2006-04-14T18:28:35.431920Z"
+   checksum="ca569fb42171f05a8fdebc45d237712f"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="9614"
+   name="Config.in"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2004-12-24T09:23:11.000000Z"
+   checksum="5f676fbcaef409f89edf248222c63bff"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="9368"
+   name="mime.types"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2004-10-09T02:49:33.000000Z"
+   checksum="3e9e1f39e91126bfb472bf3fcdc7fae4"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="9368"
+   name="boa-config.site-i386"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2004-10-09T02:49:33.000000Z"
+   checksum="87888048d67dbc6b82ff5816dee39510"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+</wc-entries>
