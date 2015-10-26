@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16279"
+   name=""
+   committed-date="2006-09-30T23:49:09.624724Z"
+   url="svn://uclibc.org/trunk/buildroot/toolchain/gcc/3.4.6"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="13898"
+   name="100-uclibc-conf.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2006-02-10T05:23:32.318768Z"
+   checksum="ef93a87707889f4dc6c05742a2f4a359"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="16279"
+   name="300-libstdc++-pic.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2006-09-30T23:49:09.624724Z"
+   checksum="c5602c314bd6db5ff99e1d4cf2145d7c"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="12689"
+   name="71_all_sh-pr16665-fix.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-12-06T04:56:55.059735Z"
+   checksum="1516cfa331013d44fdb605728f979d52"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="12689"
+   name="73_all_sh-pr20617.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-12-06T04:56:55.059735Z"
+   checksum="1b19b81101bbca6247298340d7b370e7"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="15604"
+   name="304-index_macro.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2006-07-04T18:05:36.480911Z"
+   checksum="a12569f535902bef735d9c5cfdb42c7f"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="12689"
+   name="600-gcc34-arm-ldm-peephole.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-12-06T04:56:55.059735Z"
+   checksum="c89ee508b27d8176662e1452ccf3d30a"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="12689"
+   name="200-uclibc-locale.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-12-06T04:56:55.059735Z"
+   checksum="c5f8c2ef34f17ba959ff0c36a68b22a2"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="15491"
+   name="810-mips-xgot.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2006-06-23T07:09:55.981866Z"
+   checksum="2cdd811570f27603b1b304f62b3b7c9e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="12689"
+   name="601-gcc34-arm-ldm.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-12-06T04:56:55.059735Z"
+   checksum="21fedc5631fa37bb4dcf95884c59a0fa"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="12689"
+   name="72_all_sh-no-reorder-blocks.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-12-06T04:56:55.059735Z"
+   checksum="7917240e9dca403379452ce013d6f671"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="13868"
+   name="900-nios2.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2006-02-07T05:00:57.609638Z"
+   checksum="ecfd94cfb129052ff9e376644e32573a"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="12689"
+   name="602-sdk-libstdc++-includes.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-12-06T04:56:55.059735Z"
+   checksum="a6836578185d0f1bb135f5f87a799d30"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="14827"
+   name="800-arm-bigendian.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2006-04-12T02:59:14.199022Z"
+   checksum="39475718ca83a9c2c6ffbdbf2ca22e8f"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="12689"
+   name="800-powerpc-libc_stack_end-uclibc.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-12-06T04:56:55.059735Z"
+   checksum="1ffc303de9cc9e534e3a445ed01b0bc0"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="12689"
+   name="700-pr15068-fix.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-12-06T04:56:55.059735Z"
+   checksum="fa73ded7fb7d8c19c4c92acf2fddcb3a"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="12689"
+   name="601-gcc34-arm-ldm-peephole2.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-12-06T04:56:55.059735Z"
+   checksum="95a09fd5ee5af23c1fc853d9da3093f5"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="13512"
+   name="arm-softfloat.patch.conditional"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2006-01-23T16:10:26.597306Z"
+   checksum="211f71649d7dcc436e81f3262174d96d"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+</wc-entries>

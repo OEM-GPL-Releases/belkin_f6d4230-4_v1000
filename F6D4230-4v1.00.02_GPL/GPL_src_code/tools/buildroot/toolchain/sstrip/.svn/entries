@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="14538"
+   name=""
+   committed-date="2006-03-14T19:10:21.320917Z"
+   url="svn://uclibc.org/trunk/buildroot/toolchain/sstrip"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="11028"
+   name="sstrip.c"
+   text-time="2006-10-24T01:01:55.000000Z"
+   committed-date="2005-08-03T01:20:34.546853Z"
+   checksum="59ac0caa411f92933848f81147c98c65"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2006-10-24T01:01:55.000000Z"/>
+<entry
+   committed-rev="11086"
+   name="Config.in"
+   text-time="2006-10-24T01:01:55.000000Z"
+   committed-date="2005-08-09T22:19:04.093064Z"
+   checksum="d3903706dd2e8798b34e3053ca7b586c"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:01:55.000000Z"/>
+<entry
+   committed-rev="14538"
+   name="sstrip.mk"
+   text-time="2006-10-24T01:01:55.000000Z"
+   committed-date="2006-03-14T19:10:21.320917Z"
+   checksum="87a95121243dc6c7f15c6dec41210163"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:01:55.000000Z"/>
+</wc-entries>

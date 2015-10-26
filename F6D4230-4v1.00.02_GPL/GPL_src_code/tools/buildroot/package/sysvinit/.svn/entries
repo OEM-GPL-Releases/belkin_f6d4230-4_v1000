@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16282"
+   name=""
+   committed-date="2006-10-01T15:17:52.981074Z"
+   url="svn://uclibc.org/trunk/buildroot/package/sysvinit"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="12855"
+   name="Config.in"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2005-12-13T05:01:49.842326Z"
+   checksum="f3a8022a936cbee4943593921570cb6d"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="12855"
+   name="sysvinit-2.86-gentoo.patch"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2005-12-13T05:01:49.842326Z"
+   checksum="fb1bdc64e3e17e8c4058a53886910e49"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="16282"
+   name="sysvinit.mk"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-10-01T15:17:52.981074Z"
+   checksum="75d57d6117dd66e94bb90f1e43b75431"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+</wc-entries>

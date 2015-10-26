@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16282"
+   name=""
+   committed-date="2006-10-01T15:17:52.981074Z"
+   url="svn://uclibc.org/trunk/buildroot/package/procps"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="9432"
+   name="procps-mips-define-pagesize.patch"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2004-10-14T18:17:33.000000Z"
+   checksum="7ba1d9bd2f1c46766282250643ab9ebd"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="9439"
+   name="Config.in"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2004-10-14T20:33:45.000000Z"
+   checksum="c2249b0e8efea287c924baae9a339112"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="16282"
+   name="procps.mk"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-10-01T15:17:52.981074Z"
+   checksum="4f2037412a4bf962c65f1457ff21beb2"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+</wc-entries>

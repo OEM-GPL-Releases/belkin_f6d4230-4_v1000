@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16014"
+   name=""
+   committed-date="2006-08-29T16:45:47.292768Z"
+   url="svn://uclibc.org/trunk/buildroot/package/busybox"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="10490"
+   name="busybox.config"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2005-06-09T12:02:08.562748Z"
+   checksum="0f595099f028e158e9bf35a1db40aa19"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="16014"
+   name="busybox.mk"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-08-29T16:45:47.292768Z"
+   checksum="42253825de283419e30062db000b28db"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="12200"
+   name="Config.in"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2005-11-10T02:59:20.114118Z"
+   checksum="5cc63404c41a90487ebe398c75550216"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+</wc-entries>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16282"
+   name=""
+   committed-date="2006-10-01T15:17:52.981074Z"
+   url="svn://uclibc.org/trunk/buildroot/package/jpeg"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="11360"
+   name="jpeg-build.patch"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2005-09-08T00:19:37.734565Z"
+   checksum="a54571c0004e379af493138f6efa8e20"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="11360"
+   name="jpeg-libtool.patch"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2005-09-08T00:19:37.734565Z"
+   checksum="01e69ff4d659cda9b41605ad3f93b248"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="9615"
+   name="Config.in"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2004-12-24T09:39:23.000000Z"
+   checksum="8efbd310420e9981436884cb8057a79c"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="16282"
+   name="jpeg.mk"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2006-10-01T15:17:52.981074Z"
+   checksum="765b468989efdd9b32024f1cc5a3c55a"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+</wc-entries>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16282"
+   name=""
+   committed-date="2006-10-01T15:17:52.981074Z"
+   url="svn://uclibc.org/trunk/buildroot/toolchain/ccache"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="9377"
+   name="Config.in"
+   text-time="2006-10-24T01:01:56.000000Z"
+   committed-date="2004-10-09T06:13:40.000000Z"
+   checksum="f19291c3cdfc0f5657b80929d15575af"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:01:55.000000Z"/>
+<entry
+   committed-rev="9377"
+   name="Config.in.2"
+   text-time="2006-10-24T01:01:56.000000Z"
+   committed-date="2004-10-09T06:13:40.000000Z"
+   checksum="14b070b3ffa264eaa77fa58863416a09"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:01:55.000000Z"/>
+<entry
+   committed-rev="16282"
+   name="ccache.mk"
+   text-time="2006-10-24T01:01:56.000000Z"
+   committed-date="2006-10-01T15:17:52.981074Z"
+   checksum="bd51a58cc797b02948e5a9db181b1725"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:01:56.000000Z"/>
+</wc-entries>

@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="15598"
+   name=""
+   committed-date="2006-07-04T11:44:32.069734Z"
+   url="svn://uclibc.org/trunk/buildroot/target/device/Sharp/LNode80"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="13423"
+   name="Makefile.in"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2006-01-19T13:51:23.661130Z"
+   checksum="59ee870371e457f9f0628b95eda63f01"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="13423"
+   name="linux.config"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2006-01-19T13:51:23.661130Z"
+   checksum="d67fb085fc6cf2594a7dfc3f1e21dc02"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="13423"
+   name="device_table.txt"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2006-01-19T13:51:23.661130Z"
+   checksum="3a180876dcfdd56e75610f3c468f783f"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   name="kernel-patches"
+   kind="dir"/>
+<entry
+   committed-rev="13423"
+   name="linux.mk"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2006-01-19T13:51:23.661130Z"
+   checksum="164bcf2db6d43c3325fa563dc7283416"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   name="target_skeleton"
+   kind="dir"/>
+</wc-entries>

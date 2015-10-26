@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16352"
+   name=""
+   committed-date="2006-10-09T21:09:20.017349Z"
+   url="svn://uclibc.org/trunk/buildroot/package/libglib12"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="11369"
+   name="libglib-libtool.patch.bz2"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2005-09-08T01:51:36.945788Z"
+   checksum="1220f8483a4c8ec3d476f4009ee0e6d9"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="11369"
+   name="libglib_configure.patch"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2005-09-08T01:51:36.945788Z"
+   checksum="cea1c729b7e91cf267eed565bd616b48"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="9617"
+   name="Config.in"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2004-12-26T07:36:59.000000Z"
+   checksum="9ea4c0d733fde7b2ca23c9aa0b4a2ec4"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="11369"
+   name="glib-1.2.10-gcc34-fix.patch"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2005-09-08T01:51:36.945788Z"
+   checksum="2657ca6d0c857b4e97ad93525212ffa1"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="16352"
+   name="libglib12.mk"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-10-09T21:09:20.017349Z"
+   checksum="485f9f839f9520a643044af867e0bcf7"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+</wc-entries>

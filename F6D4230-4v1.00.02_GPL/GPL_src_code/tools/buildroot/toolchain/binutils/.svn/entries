@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16418"
+   name=""
+   committed-date="2006-10-21T05:33:59.309767Z"
+   url="svn://uclibc.org/trunk/buildroot/toolchain/binutils"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   name="2.14.90.0.8"
+   kind="dir"/>
+<entry
+   name="2.16.91.0.5"
+   kind="dir"/>
+<entry
+   name="2.16.91.0.6"
+   kind="dir"/>
+<entry
+   name="2.16.91.0.7"
+   kind="dir"/>
+<entry
+   name="2.15"
+   kind="dir"/>
+<entry
+   name="2.16.1"
+   kind="dir"/>
+<entry
+   name="2.17"
+   kind="dir"/>
+<entry
+   committed-rev="15968"
+   name="binutils.mk"
+   text-time="2006-10-24T01:01:58.000000Z"
+   committed-date="2006-08-24T03:40:11.030274Z"
+   checksum="a756cab0470931e05d4b5bd0f39f32e9"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:01:57.000000Z"/>
+<entry
+   name="2.17.50.0.2"
+   kind="dir"/>
+<entry
+   name="2.17.50.0.3"
+   kind="dir"/>
+<entry
+   name="2.17.50.0.4"
+   kind="dir"/>
+<entry
+   committed-rev="16418"
+   name="Config.in"
+   text-time="2006-10-24T01:01:58.000000Z"
+   committed-date="2006-10-21T05:33:59.309767Z"
+   checksum="fca3f431ee491b1b75d34e6ec4b0b5d8"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:01:57.000000Z"/>
+<entry
+   name="2.17.50.0.5"
+   kind="dir"/>
+<entry
+   name="2.16.90.0.3"
+   kind="dir"/>
+<entry
+   name="2.17.50.0.6"
+   kind="dir"/>
+<entry
+   name="2.15.94.0.2.2"
+   kind="dir"/>
+</wc-entries>

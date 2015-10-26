@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="15598"
+   name=""
+   committed-date="2006-07-04T11:44:32.069734Z"
+   url="svn://uclibc.org/trunk/buildroot/target/device/Sharp"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="13423"
+   name="Makefile.in"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2006-01-19T13:51:23.661130Z"
+   checksum="9cf74731d49ed091fc3eaf6b62b0bc72"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   name="LNode80"
+   kind="dir"/>
+<entry
+   committed-rev="13423"
+   name="Config.in"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2006-01-19T13:51:23.661130Z"
+   checksum="92359fb8d9244ce3075087d7dba9d6bb"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+</wc-entries>

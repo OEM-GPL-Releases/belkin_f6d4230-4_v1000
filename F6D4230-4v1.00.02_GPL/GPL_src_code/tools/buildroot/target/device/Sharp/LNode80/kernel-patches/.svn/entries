@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="15598"
+   name=""
+   committed-date="2006-07-04T11:44:32.069734Z"
+   url="svn://uclibc.org/trunk/buildroot/target/device/Sharp/LNode80/kernel-patches"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="13423"
+   name="002-patch-2.4.26-vrs1-lnode80"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2006-01-19T13:51:23.661130Z"
+   checksum="5c96734500dd23604d82be31dc70b04d"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="15598"
+   name="001-patch-2.4.26-vrs1"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2006-07-04T11:44:32.069734Z"
+   checksum="f5d5249fbd1075daf5f4587a820e17a5"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+</wc-entries>

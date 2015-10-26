@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16245"
+   name=""
+   committed-date="2006-09-28T10:19:43.906322Z"
+   url="svn://uclibc.org/trunk/buildroot/package/nbd"
+   last-author="jacmet"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="16245"
+   name="nbd.mk"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-09-28T10:19:43.906322Z"
+   checksum="8efb290a433721b6172d51f6d5c248fe"
+   last-author="jacmet"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="16245"
+   name="Config.in"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-09-28T10:19:43.906322Z"
+   checksum="b75ceb670f20a897600de8e002f02081"
+   last-author="jacmet"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+</wc-entries>

@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16399"
+   name=""
+   committed-date="2006-10-17T16:57:02.129729Z"
+   url="svn://uclibc.org/trunk/buildroot/toolchain/gdb"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   name="snapshot"
+   kind="dir"/>
+<entry
+   committed-rev="16399"
+   name="gdb.mk"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2006-10-17T16:57:02.129729Z"
+   checksum="5d47fa98566b79abdbf564837664476d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   name="6.2.1"
+   kind="dir"/>
+<entry
+   name="6.3"
+   kind="dir"/>
+<entry
+   name="6.4"
+   kind="dir"/>
+<entry
+   name="6.5"
+   kind="dir"/>
+<entry
+   committed-rev="15457"
+   name="Config.in"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2006-06-21T08:18:19.186323Z"
+   checksum="eb41102ca87ab139aff32b1fd2b614f4"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+</wc-entries>

@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="13423"
+   name=""
+   committed-date="2006-01-19T13:51:23.661130Z"
+   url="svn://uclibc.org/trunk/buildroot/target/device/Sharp/LNode80/target_skeleton/etc"
+   last-author="prpplague"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="13423"
+   name="services"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2006-01-19T13:51:23.661130Z"
+   checksum="9ebdc6f90a6070a1cdac5ecde97fbd33"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   committed-rev="13423"
+   name="inputrc"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2006-01-19T13:51:23.661130Z"
+   checksum="fa7934ef882bf912be9f11728f20e6d1"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   committed-rev="13423"
+   name="protocols"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2006-01-19T13:51:23.661130Z"
+   checksum="9712fa2a8eb070609cfdc1561be4bed8"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   committed-rev="13423"
+   name="shadow"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2006-01-19T13:51:23.661130Z"
+   checksum="66bd8d735a5604b9e69dc7a21b686d33"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   name="init.d"
+   kind="dir"/>
+<entry
+   committed-rev="13423"
+   name="securetty"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2006-01-19T13:51:23.661130Z"
+   checksum="b7648e69dc260e26ef0aa01ec2ae5db0"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   committed-rev="13423"
+   name="issue"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2006-01-19T13:51:23.661130Z"
+   checksum="ab4264d34a62d67242d91ce07979f614"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   name="network"
+   kind="dir"/>
+<entry
+   committed-rev="13423"
+   name="inittab"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2006-01-19T13:51:23.661130Z"
+   checksum="af5fa8e8f793a145a5efaa4587951c66"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   committed-rev="13423"
+   name="group"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2006-01-19T13:51:23.661130Z"
+   checksum="432c77c6583da40a9a1b0e6bd0c29b9a"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   committed-rev="13423"
+   name="TZ"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2006-01-19T13:51:23.661130Z"
+   checksum="ed17b2e81ef5d41c72bb723c48f883ec"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   committed-rev="13423"
+   name="fstab"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2006-01-19T13:51:23.661130Z"
+   checksum="5766efd00476cd657562d4be66699fce"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   committed-rev="13423"
+   name="hosts"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2006-01-19T13:51:23.661130Z"
+   checksum="4291fb00ec609b5b007ff9b3048e9248"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   committed-rev="13423"
+   name="profile"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2006-01-19T13:51:23.661130Z"
+   checksum="fdc8c67548463cf0dff141dbcf9c3fab"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   committed-rev="13423"
+   name="passwd"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2006-01-19T13:51:23.661130Z"
+   checksum="253a7a365d49bcc647912426f589b085"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   committed-rev="13423"
+   name="hostname"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2006-01-19T13:51:23.661130Z"
+   checksum="062e07d0678627db7d63bc89f3ef5fc1"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+</wc-entries>

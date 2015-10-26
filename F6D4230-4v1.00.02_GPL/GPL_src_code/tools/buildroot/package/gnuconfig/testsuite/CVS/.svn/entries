@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="14423"
+   name=""
+   committed-date="2006-03-02T06:18:02.238949Z"
+   url="svn://uclibc.org/trunk/buildroot/package/gnuconfig/testsuite/CVS"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="11049"
+   name="Repository"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2005-08-04T22:42:34.999284Z"
+   checksum="5e4d19efafb000c4200b6a4efb4b24ab"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="13070"
+   name="Root"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2006-01-04T04:05:05.070625Z"
+   checksum="37733ac17202fa1e9b3a598e3ea62002"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="14423"
+   name="Entries"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2006-03-02T06:18:02.238949Z"
+   checksum="99563a515f434fff3c5ba43b76ca3bba"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+</wc-entries>

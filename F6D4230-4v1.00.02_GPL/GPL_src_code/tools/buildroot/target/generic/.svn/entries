@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="14867"
+   name=""
+   committed-date="2006-04-14T19:57:28.645952Z"
+   url="svn://uclibc.org/trunk/buildroot/target/generic"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="9904"
+   name="Makefile.in"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2005-02-17T18:21:20.862086Z"
+   checksum="45647cbef49ff864d9472a8938a7d02f"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   committed-rev="14867"
+   name="skel.tar.gz"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2006-04-14T19:57:28.645952Z"
+   checksum="6d24703a93e03447788191f6d1cc5f72"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   committed-rev="11031"
+   name="device_table.txt"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2005-08-03T01:28:41.262755Z"
+   checksum="c97b377763db92b59ed1b3e07cf0d62b"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   name="firewall"
+   kind="dir"/>
+<entry
+   name="access_point"
+   kind="dir"/>
+<entry
+   name="target_skeleton"
+   kind="dir"/>
+<entry
+   committed-rev="12531"
+   name="Config.in"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2005-11-25T22:14:29.570251Z"
+   checksum="2d58af001b26383c58cd1ecaa0798c3d"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+</wc-entries>

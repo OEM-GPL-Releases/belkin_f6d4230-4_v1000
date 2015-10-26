@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16400"
+   name=""
+   committed-date="2006-10-17T16:57:49.676206Z"
+   url="svn://uclibc.org/trunk/buildroot/target"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   name="powerpc"
+   kind="dir"/>
+<entry
+   name="iso9660"
+   kind="dir"/>
+<entry
+   name="arm"
+   kind="dir"/>
+<entry
+   committed-rev="13456"
+   name="Makefile.in"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2006-01-20T20:04:53.025250Z"
+   checksum="37f03b1fc0f3ec1f9e190775d65d6793"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   name="ext2"
+   kind="dir"/>
+<entry
+   name="x86"
+   kind="dir"/>
+<entry
+   name="tar"
+   kind="dir"/>
+<entry
+   name="squashfs"
+   kind="dir"/>
+<entry
+   name="makedevs"
+   kind="dir"/>
+<entry
+   name="device"
+   kind="dir"/>
+<entry
+   committed-rev="14773"
+   name="Config.in"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2006-04-06T18:31:14.961788Z"
+   checksum="52fc17ea80c5bb2ed074379b3afbaf32"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   name="jffs2"
+   kind="dir"/>
+<entry
+   name="cramfs"
+   kind="dir"/>
+<entry
+   name="generic"
+   kind="dir"/>
+<entry
+   name="cloop"
+   kind="dir"/>
+</wc-entries>

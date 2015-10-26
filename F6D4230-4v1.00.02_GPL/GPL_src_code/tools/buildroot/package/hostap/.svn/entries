@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16282"
+   name=""
+   committed-date="2006-10-01T15:17:52.981074Z"
+   url="svn://uclibc.org/trunk/buildroot/package/hostap"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="16282"
+   name="hostap.mk"
+   text-time="2006-10-24T01:02:09.000000Z"
+   committed-date="2006-10-01T15:17:52.981074Z"
+   checksum="0e7eb9f21d7c9d385a89e9006e4bae3e"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:09.000000Z"/>
+<entry
+   committed-rev="13516"
+   name="Config.in"
+   text-time="2006-10-24T01:02:09.000000Z"
+   committed-date="2006-01-23T18:40:08.378529Z"
+   checksum="59e1a729ed6e1324fd36620e0a7f7b0c"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:09.000000Z"/>
+</wc-entries>

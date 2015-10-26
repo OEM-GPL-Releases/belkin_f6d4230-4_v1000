@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16282"
+   name=""
+   committed-date="2006-10-01T15:17:52.981074Z"
+   url="svn://uclibc.org/trunk/buildroot/package/thttpd"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="13514"
+   name="Config.in"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2006-01-23T18:17:09.842286Z"
+   checksum="39e314c8d0ccd542ac52bb593e3fe9dd"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="16282"
+   name="thttpd.mk"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2006-10-01T15:17:52.981074Z"
+   checksum="19e3f827d2e21c00914bb8b965f99781"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+</wc-entries>

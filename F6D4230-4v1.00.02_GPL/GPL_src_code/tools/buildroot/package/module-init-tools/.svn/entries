@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="15799"
+   name=""
+   committed-date="2006-08-10T21:00:23.865845Z"
+   url="svn://uclibc.org/trunk/buildroot/package/module-init-tools"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="10481"
+   name="module-init-tools.patch"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2005-06-09T09:46:12.776243Z"
+   checksum="482ada9320d6b2dd8950b68d789a0959"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="15681"
+   name="Config.in"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2006-07-10T22:18:35.748832Z"
+   checksum="ad6f5d8d4624e0a77b029a4d76b5ba4f"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="15799"
+   name="module-init-tools.mk"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2006-08-10T21:00:23.865845Z"
+   checksum="9d566d2731ed833b106558fd7b0538e2"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+</wc-entries>

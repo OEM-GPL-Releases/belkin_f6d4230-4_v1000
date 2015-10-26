@@ -1,0 +1,238 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11226"
+   name=""
+   committed-date="2005-08-22T21:50:51.519325Z"
+   url="svn://uclibc.org/trunk/buildroot/toolchain/gdb/6.3"
+   last-author="mjn3"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="10307"
+   name="100-uclibc-conf.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-05-12T11:35:00.261924Z"
+   checksum="8b7f5c46b8dabbc9239c37f52278b971"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="10101"
+   name="730-debian_gdb-fix-tracefork-check.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-04-14T08:05:03.623833Z"
+   checksum="8f764753582061522e742e8ca18e05eb"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="10101"
+   name="760-debian_vsyscall-bfd-close-result.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-04-14T08:05:03.623833Z"
+   checksum="80d51863c04b8163a1111228d1bd3615"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="10101"
+   name="620-debian_static-thread-db.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-04-14T08:05:03.623833Z"
+   checksum="1126843a195c9348017e295220629af8"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="10101"
+   name="660-debian_dwarf-cfa-restore.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-04-14T08:05:03.623833Z"
+   checksum="a037ec41b17b621299b9c123c1720109"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="10101"
+   name="640-debian_dwarf2-frame-signal-unwinder.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-04-14T08:05:03.623833Z"
+   checksum="a813642fe14f0de1346648bff9de8b98"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="11033"
+   name="500-thread-timeout.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-08-03T03:17:26.247114Z"
+   checksum="fc49553ba52f520229f6840523e25e23"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="10101"
+   name="750-debian_sparc-singlestep.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-04-14T08:05:03.623833Z"
+   checksum="fd5b24af602961a2aaf6d13abe609531"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="11226"
+   name="400-mips-coredump.patch-2.4.23-29"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-08-22T21:50:51.519325Z"
+   checksum="9b939edb72d0e54160869b48f2ebc080"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="10101"
+   name="680-debian_sim-destdir.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-04-14T08:05:03.623833Z"
+   checksum="9aed3c9c86826ca205591a38ba032935"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="10101"
+   name="770-debian_vfork-done-spelling.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-04-14T08:05:03.623833Z"
+   checksum="f419de917b2af3b80bc20f82f2f4f49c"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="10101"
+   name="690-debian_member-field-symtab.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-04-14T08:05:03.623833Z"
+   checksum="665a859d40f237a2b64c67fd5e485e86"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="10101"
+   name="600-debian_10.selected-frame.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-04-14T08:05:03.623833Z"
+   checksum="7d87a468d3c364d634bc0ddeab11233f"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="10101"
+   name="710-debian_thread-db-multiple-libraries.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-04-14T08:05:03.623833Z"
+   checksum="50c3875e93a56530a9a2b869ff34fdd2"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="10101"
+   name="720-debian_static-threads-test.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-04-14T08:05:03.623833Z"
+   checksum="6d21e7e2dea917c3a5b8862e5ac24df4"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="9942"
+   name="200-uclibc-readline-conf.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-02-27T23:47:35.581101Z"
+   checksum="c7d303fad9794b8a463bddf3c43737e5"
+   last-author="jocke"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="10101"
+   name="780-debian_gdbserver-rdynamic.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-04-14T08:05:03.623833Z"
+   checksum="56cb0ada89220fe2abe2c44f4643b525"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="10101"
+   name="630-debian_24.tracepoint-segv.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-04-14T08:05:03.623833Z"
+   checksum="917bc146dfd73a2dc0aefcf78b0ff6af"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="10101"
+   name="790-debian_dwarf2-cfi-warning.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-04-14T08:05:03.623833Z"
+   checksum="0671c276c21034f754cf4cf6dca75660"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="10101"
+   name="810-debian_bfd-no-kylix-crash.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-04-14T08:05:03.623833Z"
+   checksum="4136d102ee803cd58275a6bc12e70c3c"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="10101"
+   name="740-debian_make-cv-type-crash.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-04-14T08:05:03.623833Z"
+   checksum="75127b74170cf3e8d2af7a46268fa4cb"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="10101"
+   name="820-debian_disable-linux-fork-messages.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-04-14T08:05:03.623833Z"
+   checksum="a8800d46e2c594dcc30e9f01f5ebfb22"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="10101"
+   name="650-debian_vsyscall-gdb-support.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-04-14T08:05:03.623833Z"
+   checksum="b822771ae2751d38b4e291819dfe006a"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="10101"
+   name="800-debian_linux-use-underscore-exit.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-04-14T08:05:03.623833Z"
+   checksum="3d026fe358eca0ceea73e6964d67ac06"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="10101"
+   name="700-debian_cp-pass-by-reference.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-04-14T08:05:03.623833Z"
+   checksum="0da7d9fb9ec85fa88d1581accf0b21b6"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+</wc-entries>

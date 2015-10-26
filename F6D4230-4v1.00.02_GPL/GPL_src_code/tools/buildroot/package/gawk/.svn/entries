@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="15492"
+   name=""
+   committed-date="2006-06-23T07:29:40.753010Z"
+   url="svn://uclibc.org/trunk/buildroot/package/gawk"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="11438"
+   name="gawk-3.1.5-core.patch"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2005-09-12T23:02:31.678665Z"
+   checksum="6ddbb4f81f1decc4c7108a3e5159b1c5"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="15492"
+   name="gawk.mk"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2006-06-23T07:29:40.753010Z"
+   checksum="36a76639644c1d59d7a58f9cad00a692"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="11438"
+   name="gawk-3.1.5-gcc4.patch"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2005-09-12T23:02:31.678665Z"
+   checksum="499e2881f167a17f2123ca338836e91d"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="9614"
+   name="Config.in"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2004-12-24T09:23:11.000000Z"
+   checksum="1a6dc108e90bcac318ed8cba19d80c1e"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+</wc-entries>

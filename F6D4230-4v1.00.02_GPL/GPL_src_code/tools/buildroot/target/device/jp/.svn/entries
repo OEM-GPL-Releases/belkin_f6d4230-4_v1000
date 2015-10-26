@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="14867"
+   name=""
+   committed-date="2006-04-14T19:57:28.645952Z"
+   url="svn://uclibc.org/trunk/buildroot/target/device/jp"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="13601"
+   name="Makefile.in"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2006-01-25T14:59:21.425037Z"
+   checksum="c3f6758b12f66dc44eaa8c1d19be66a8"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   name="q5"
+   kind="dir"/>
+<entry
+   committed-rev="13601"
+   name="Config.in"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2006-01-25T14:59:21.425037Z"
+   checksum="b0014463a411109862f6614937d97d8b"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+</wc-entries>

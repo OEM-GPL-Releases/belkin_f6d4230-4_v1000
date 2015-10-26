@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="15491"
+   name=""
+   committed-date="2006-06-23T07:09:55.981866Z"
+   url="svn://uclibc.org/trunk/buildroot/toolchain/gcc/3.3.6"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="10397"
+   name="120-softfloat.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-05-24T04:19:13.196853Z"
+   checksum="0d476190e9d3d668bc48254390506532"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="12211"
+   name="100-uclibc-conf.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-11-11T05:28:08.127632Z"
+   checksum="126dae2b7634ee3cd476e912086cdd71"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="10397"
+   name="800-arm-bigendian.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-05-24T04:19:13.196853Z"
+   checksum="70c718f1ee6cd70acf97fe3c0873f6c5"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="10397"
+   name="810-arm-bigendian-uclibc.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-05-24T04:19:13.196853Z"
+   checksum="412eb2492822cdef0d13182f4efbd6c3"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="10397"
+   name="110-uclibc-conf.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-05-24T04:19:13.196853Z"
+   checksum="f9e5bff342d62881c5afd6a74f0603a5"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="10397"
+   name="820-no-mips-empic-relocs.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-05-24T04:19:13.196853Z"
+   checksum="66a76ea65c91d89b2834de56bc394d61"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="10397"
+   name="500-loop.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-05-24T04:19:13.196853Z"
+   checksum="949318095dbae2f0715bb626f5194946"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="10855"
+   name="830-gcc-bug-num-22167.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-07-18T23:34:20.987436Z"
+   checksum="c10cededfe4ba5774e5f444fdab13dd3"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="10397"
+   name="200-uclibc-locale.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2005-05-24T04:19:13.196853Z"
+   checksum="100c84e5bfdcb5bf3bc4fda87a47c77a"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="15491"
+   name="810-mips-xgot.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2006-06-23T07:09:55.981866Z"
+   checksum="4696eff30e93a92f54837222198abce0"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+</wc-entries>

@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9906"
+   name=""
+   committed-date="2005-02-17T18:49:52.723345Z"
+   url="svn://uclibc.org/trunk/buildroot/package/linux"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+</wc-entries>

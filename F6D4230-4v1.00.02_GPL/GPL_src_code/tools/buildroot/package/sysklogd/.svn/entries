@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16282"
+   name=""
+   committed-date="2006-10-01T15:17:52.981074Z"
+   url="svn://uclibc.org/trunk/buildroot/package/sysklogd"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="11449"
+   name="init-syslog"
+   text-time="2006-10-24T01:02:09.000000Z"
+   committed-date="2005-09-13T20:58:37.358030Z"
+   checksum="5c58ea3c1462ad9b42fbe03f09c2106a"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:09.000000Z"/>
+<entry
+   committed-rev="11449"
+   name="syslog.conf"
+   text-time="2006-10-24T01:02:09.000000Z"
+   committed-date="2005-09-13T20:58:37.358030Z"
+   checksum="a62ee8e116dadfb64cc1586698c2c27d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:09.000000Z"/>
+<entry
+   committed-rev="16282"
+   name="sysklogd.mk"
+   text-time="2006-10-24T01:02:09.000000Z"
+   committed-date="2006-10-01T15:17:52.981074Z"
+   checksum="d3cdb4c1139e4243d3780857acd095b9"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:09.000000Z"/>
+<entry
+   committed-rev="11449"
+   name="Config.in"
+   text-time="2006-10-24T01:02:09.000000Z"
+   committed-date="2005-09-13T20:58:37.358030Z"
+   checksum="5c344b033e8b41f8777dd1af07aecbfc"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:09.000000Z"/>
+<entry
+   committed-rev="13559"
+   name="sysklogd.patch"
+   text-time="2006-10-24T01:02:09.000000Z"
+   committed-date="2006-01-24T15:50:50.155032Z"
+   checksum="e8edb69599bab98072adc4510ccb65cb"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:09.000000Z"/>
+</wc-entries>

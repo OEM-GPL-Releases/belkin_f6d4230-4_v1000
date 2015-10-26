@@ -1,0 +1,247 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="15166"
+   name=""
+   committed-date="2006-05-24T18:26:46.354358Z"
+   url="svn://uclibc.org/trunk/buildroot/target/device/Soekris/net4521/kernel-patches"
+   last-author="jacmet"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="10103"
+   name="002-2.4.29-hf7.diff.bz2"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2005-04-15T02:14:42.403849Z"
+   checksum="f00996548a0f1544ec322d45816901b4"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="9796"
+   name="006_init_unshare.diff.bz2"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2005-02-02T16:27:50.000000Z"
+   checksum="fa8b6c6e17853c2321688b1a3c516779"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="9796"
+   name="063-silence.kbd.patch.bz2"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2005-02-02T16:27:50.000000Z"
+   checksum="2de1641b5e7f9ba31ca4a0b7482cbe96"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="10103"
+   name="044-streaming_io.bz2"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2005-04-15T02:14:42.403849Z"
+   checksum="54501101ccc0206a694b249ff67778e5"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="15166"
+   name="067-squashfs3.0.patch.bz2"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2006-05-24T18:26:46.354358Z"
+   checksum="398f4100eafec7b6488cf430c7c83c54"
+   last-author="jacmet"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="9796"
+   name="010-optimize-for-size.bz2"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2005-02-02T16:27:50.000000Z"
+   checksum="20d7a9fefbb46037fc7703033a582eac"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="9796"
+   name="076-nmap-freak.bz2"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2005-02-02T16:27:50.000000Z"
+   checksum="0723d41c525a96270e07ca36c4fae279"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="10103"
+   name="007-scsi_add_remove_single.bz2"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2005-04-15T02:14:42.403849Z"
+   checksum="3c24eb5ebf0bdc152060a6348f65f007"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="9465"
+   name="005_modularize_vesafb.diff.bz2"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2004-10-21T22:16:29.000000Z"
+   checksum="b558de573de0f60ffbacc20652de62f2"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="9368"
+   name="064-shutup-md.bz2"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2004-10-09T02:49:33.000000Z"
+   checksum="417222823fc7a6bb56a7dedd3b5b9da8"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="9368"
+   name="018-slab-loop-init.bz2"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2004-10-09T02:49:33.000000Z"
+   checksum="58d7d42b79951a949d23e3d0d0f4aac1"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="9465"
+   name="003_kbuild_fixes.diff.bz2"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2004-10-21T22:16:29.000000Z"
+   checksum="99a391dc7edcb23f7026d16a11ac6413"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="9796"
+   name="100_VERSION.bz2"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2005-02-02T16:27:50.000000Z"
+   checksum="2e8e1fe498f267fe5303822a2d871446"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="9796"
+   name="079-jiffies64.bz2"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2005-02-02T16:27:50.000000Z"
+   checksum="51c618f4ff5a22c99638b53fb1c38706"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="9465"
+   name="077-orinoco-0.13e.bz2"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2004-10-21T22:16:29.000000Z"
+   checksum="94fa190aec60a222fd59fa856f5c8c22"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="9368"
+   name="042-loopfixes.patch.bz2"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2004-10-09T02:49:33.000000Z"
+   checksum="8386f04c3f841c92a830903fe385a53d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="9796"
+   name="078-hostap.bz2"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2005-02-02T16:27:50.000000Z"
+   checksum="a53c4b3db734a280cbf1af41163bd186"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="9368"
+   name="017-printk.bz2"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2004-10-09T02:49:33.000000Z"
+   checksum="a422e04055f42e66739b0a4ed3f75228"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="9368"
+   name="012-x86-check_gcc.bz2"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2004-10-09T02:49:33.000000Z"
+   checksum="4c51a9fdf802085352ff855fc57722c9"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="9368"
+   name="089-no-touch-makedep.bz2"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2004-10-09T02:49:33.000000Z"
+   checksum="9c7cc119e8800e016ad0b39d36562397"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="9368"
+   name="041-changeloop.patch.bz2"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2004-10-09T02:49:33.000000Z"
+   checksum="9665f9864cfd5bd01eca430d9b28c8ff"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="9465"
+   name="062-silence-blk-queue.bz2"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2004-10-21T22:16:29.000000Z"
+   checksum="63deb762a53171a6c743714bef59b007"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="9465"
+   name="015_cramfs_initrd.diff.bz2"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2004-10-21T22:16:29.000000Z"
+   checksum="951ac1201eb17f45580800bd22132217"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="9796"
+   name="004_386_emu.diff.bz2"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2005-02-02T16:27:50.000000Z"
+   checksum="b9cb9e9476cc4075858e208ea4414bd8"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="9368"
+   name="008-ieee1394-fix.bz2"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2004-10-09T02:49:33.000000Z"
+   checksum="8e43d4327c9d3ccb28399492f9a5cb88"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="9368"
+   name="009-always-inline.bz2"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2004-10-09T02:49:33.000000Z"
+   checksum="b8cf6ee6d7dd3ca51e6ed7af1fd350de"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+</wc-entries>

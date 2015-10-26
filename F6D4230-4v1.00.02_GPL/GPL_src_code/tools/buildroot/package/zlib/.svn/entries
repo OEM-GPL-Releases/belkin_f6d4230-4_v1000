@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="14794"
+   name=""
+   committed-date="2006-04-10T18:09:17.205497Z"
+   url="svn://uclibc.org/trunk/buildroot/package/zlib"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="14794"
+   name="zlib.mk"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2006-04-10T18:09:17.205497Z"
+   checksum="97fa1ccf46c3b73b86f5ad38b60da1e5"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="10797"
+   name="Config.in"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2005-07-12T19:53:12.737377Z"
+   checksum="39cbc9a2d8b9d742bf5e9d0f4e961e68"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="11294"
+   name="zlib-1.2.1-configure.patch"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2005-08-30T22:45:08.151321Z"
+   checksum="0ba64fcdec1203fa9e8d7e37b97badf0"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="11294"
+   name="zlib-arflags.patch"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2005-08-30T22:45:08.151321Z"
+   checksum="33550f3e4c02a3b0e1b91dffb07910ea"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+</wc-entries>

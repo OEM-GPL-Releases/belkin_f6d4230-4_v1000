@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16351"
+   name=""
+   committed-date="2006-10-09T21:08:56.369171Z"
+   url="svn://uclibc.org/trunk/buildroot/package/modutils"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="15694"
+   name="modutils-cross.patch"
+   text-time="2006-10-24T01:02:09.000000Z"
+   committed-date="2006-07-13T17:26:01.362680Z"
+   checksum="9d3fe9e97c5ea20626568daa6a7081b9"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:09.000000Z"/>
+<entry
+   committed-rev="16351"
+   name="modutils.mk"
+   text-time="2006-10-24T01:02:09.000000Z"
+   committed-date="2006-10-09T21:08:56.369171Z"
+   checksum="482da9604300273280ee173629c8f069"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:09.000000Z"/>
+<entry
+   committed-rev="15681"
+   name="Config.in"
+   text-time="2006-10-24T01:02:09.000000Z"
+   committed-date="2006-07-10T22:18:35.748832Z"
+   checksum="521488440f5c8652b8f55809c8efb763"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:09.000000Z"/>
+<entry
+   committed-rev="11707"
+   name="modutils-01.patch"
+   text-time="2006-10-24T01:02:09.000000Z"
+   committed-date="2005-09-30T20:22:13.275865Z"
+   checksum="62d9ef50cc5c0409e34d068923de7085"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:09.000000Z"/>
+</wc-entries>

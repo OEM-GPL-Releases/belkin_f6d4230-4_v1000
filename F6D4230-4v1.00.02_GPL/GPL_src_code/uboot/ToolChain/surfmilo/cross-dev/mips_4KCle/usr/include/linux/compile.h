@@ -1,0 +1,6 @@
+#define UTS_VERSION "#300 Tue Feb 21 17:03:27 CST 2006"
+#define LINUX_COMPILE_TIME "17:03:27"
+#define LINUX_COMPILE_BY "yenho"
+#define LINUX_COMPILE_HOST "linux"
+#define LINUX_COMPILE_DOMAIN "ralink.com.tw"
+#define LINUX_COMPILER "gcc version 3.3.3 (DENX ELDK 3.1.1 3.3.3-9)"

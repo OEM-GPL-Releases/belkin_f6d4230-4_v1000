@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16418"
+   name=""
+   committed-date="2006-10-21T05:33:59.309767Z"
+   url="svn://uclibc.org/trunk/buildroot"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   prop-time="2006-10-24T01:02:11.000000Z"
+   revision="16429"/>
+<entry
+   name="toolchain"
+   kind="dir"/>
+<entry
+   committed-rev="9365"
+   name=".defconfig"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2004-10-09T01:06:03.000000Z"
+   checksum="87b3e7376e92bae9253220d16a48bcc0"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   name="target"
+   kind="dir"/>
+<entry
+   name="docs"
+   kind="dir"/>
+<entry
+   committed-rev="16281"
+   name="Config.in"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-10-01T15:07:45.249768Z"
+   checksum="8ed6d0c1b7bfae40f246cd97aa20ef9b"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   name="package"
+   kind="dir"/>
+<entry
+   committed-rev="16282"
+   name="Makefile"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-10-01T15:17:52.981074Z"
+   checksum="c35b3d08c8acb8a42779d91829a52408"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+</wc-entries>

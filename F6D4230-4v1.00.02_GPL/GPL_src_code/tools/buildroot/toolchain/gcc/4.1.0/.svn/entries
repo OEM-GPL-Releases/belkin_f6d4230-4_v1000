@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16279"
+   name=""
+   committed-date="2006-09-30T23:49:09.624724Z"
+   url="svn://uclibc.org/trunk/buildroot/toolchain/gcc/4.1.0"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="14420"
+   name="100-uclibc-conf.patch"
+   text-time="2006-10-24T01:01:59.000000Z"
+   committed-date="2006-03-02T05:25:36.479810Z"
+   checksum="1b5adcd4819efe62f47e5c8d67d97d7a"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:01:59.000000Z"/>
+<entry
+   committed-rev="14829"
+   name="800-arm-bigendian.patch"
+   text-time="2006-10-24T01:01:59.000000Z"
+   committed-date="2006-04-12T03:47:16.227254Z"
+   checksum="6b814e3849cee76ca798b8c57ef90e77"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:01:59.000000Z"/>
+<entry
+   committed-rev="16279"
+   name="300-libstdc++-pic.patch"
+   text-time="2006-10-24T01:01:59.000000Z"
+   committed-date="2006-09-30T23:49:09.624724Z"
+   checksum="46de4bb03b2310231123ff4f182d8e68"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:01:59.000000Z"/>
+<entry
+   committed-rev="10249"
+   name="302-c99-snprintf.patch"
+   text-time="2006-10-24T01:01:59.000000Z"
+   committed-date="2005-05-05T03:17:15.957752Z"
+   checksum="49145ad9e849728301685e5950cca6b6"
+   last-author="sjhill"
+   kind="file"
+   prop-time="2006-10-24T01:01:59.000000Z"/>
+<entry
+   committed-rev="14422"
+   name="740-sh-pr24836.patch"
+   text-time="2006-10-24T01:01:59.000000Z"
+   committed-date="2006-03-02T05:30:31.675860Z"
+   checksum="4e8a1644842d42c91027c4fa9b02b897"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:01:59.000000Z"/>
+<entry
+   committed-rev="15290"
+   name="110-arm-eabi.patch"
+   text-time="2006-10-24T01:01:59.000000Z"
+   committed-date="2006-06-05T22:11:01.694309Z"
+   checksum="9dadfab32668547b77fbf93cd5c66c3a"
+   last-author="lethal"
+   kind="file"
+   prop-time="2006-10-24T01:01:59.000000Z"/>
+<entry
+   committed-rev="14655"
+   name="304-index_macro.patch"
+   text-time="2006-10-24T01:01:59.000000Z"
+   committed-date="2006-03-25T03:15:40.814752Z"
+   checksum="a12569f535902bef735d9c5cfdb42c7f"
+   last-author="psm"
+   kind="file"
+   prop-time="2006-10-24T01:01:59.000000Z"/>
+<entry
+   committed-rev="14662"
+   name="200-uclibc-locale.patch"
+   text-time="2006-10-24T01:01:59.000000Z"
+   committed-date="2006-03-26T23:18:37.836547Z"
+   checksum="a87ff389a8e543bb66b1eb5e88439ee6"
+   last-author="mjn3"
+   kind="file"
+   prop-time="2006-10-24T01:01:59.000000Z"/>
+<entry
+   committed-rev="10249"
+   name="303-c99-complex-ugly-hack.patch"
+   text-time="2006-10-24T01:01:59.000000Z"
+   committed-date="2005-05-05T03:17:15.957752Z"
+   checksum="715da9340cbd5371c777f7933c8f3d60"
+   last-author="sjhill"
+   kind="file"
+   prop-time="2006-10-24T01:01:59.000000Z"/>
+<entry
+   committed-rev="10249"
+   name="301-missing-execinfo_h.patch"
+   text-time="2006-10-24T01:01:59.000000Z"
+   committed-date="2005-05-05T03:17:15.957752Z"
+   checksum="a1a72ecb9890db3e59ea40274a054a4b"
+   last-author="sjhill"
+   kind="file"
+   prop-time="2006-10-24T01:01:59.000000Z"/>
+</wc-entries>

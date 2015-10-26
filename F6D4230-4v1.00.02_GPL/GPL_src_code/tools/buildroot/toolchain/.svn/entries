@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16418"
+   name=""
+   committed-date="2006-10-21T05:33:59.309767Z"
+   url="svn://uclibc.org/trunk/buildroot/toolchain"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   name="mklibs"
+   kind="dir"/>
+<entry
+   name="uClibc"
+   kind="dir"/>
+<entry
+   committed-rev="14870"
+   name="Makefile.in"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2006-04-14T22:37:50.538074Z"
+   checksum="ae432a10c299940cab0d013288e97e6f"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:01:55.000000Z"/>
+<entry
+   name="sstrip"
+   kind="dir"/>
+<entry
+   name="ccache"
+   kind="dir"/>
+<entry
+   name="dependencies"
+   kind="dir"/>
+<entry
+   committed-rev="11713"
+   name="patch-kernel.sh"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2005-09-30T21:01:44.060376Z"
+   checksum="f2a14e237fe1dffb6ece19a30f6a0722"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:01:56.000000Z"/>
+<entry
+   name="binutils"
+   kind="dir"/>
+<entry
+   name="kernel-headers"
+   kind="dir"/>
+<entry
+   committed-rev="15764"
+   name="Config.in"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2006-08-02T21:19:09.766633Z"
+   checksum="b38a2ae209fd49c4d394d3c2874bdf48"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:01:59.000000Z"/>
+<entry
+   name="gcc"
+   kind="dir"/>
+<entry
+   name="gdb"
+   kind="dir"/>
+<entry
+   name="elf2flt"
+   kind="dir"/>
+</wc-entries>

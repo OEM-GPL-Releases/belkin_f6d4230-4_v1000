@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="12653"
+   name=""
+   committed-date="2005-12-03T00:12:59.231593Z"
+   url="svn://uclibc.org/trunk/buildroot/toolchain/binutils/2.14.90.0.8"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="12653"
+   name="100-uclibc-conf.patch"
+   text-time="2006-10-24T01:01:56.000000Z"
+   committed-date="2005-12-03T00:12:59.231593Z"
+   checksum="e996e9971fa1997c6d8d6fde1b96464a"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:01:56.000000Z"/>
+<entry
+   committed-rev="9947"
+   name="400-mips-ELF_MAXPAGESIZE-4K.patch"
+   text-time="2006-10-24T01:01:56.000000Z"
+   committed-date="2005-03-01T16:31:31.335685Z"
+   checksum="a57c123743fa50c19e4cf4541bf82212"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:01:56.000000Z"/>
+<entry
+   committed-rev="9365"
+   name="600-arm-textrel.patch"
+   text-time="2006-10-24T01:01:56.000000Z"
+   committed-date="2004-10-09T01:06:03.000000Z"
+   checksum="7263f92d8f68e42a713d8c3159986d19"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:01:56.000000Z"/>
+<entry
+   committed-rev="9955"
+   name="210-cflags.patch"
+   text-time="2006-10-24T01:01:56.000000Z"
+   committed-date="2005-03-02T08:57:32.244235Z"
+   checksum="f2b54c4e03c2df44407beec56efbc2bd"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:01:56.000000Z"/>
+<entry
+   committed-rev="9365"
+   name="001-debian.patch"
+   text-time="2006-10-24T01:01:56.000000Z"
+   committed-date="2004-10-09T01:06:03.000000Z"
+   checksum="826dd3aeb9bcfe3cbf9b51600bccb0e4"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:01:56.000000Z"/>
+</wc-entries>

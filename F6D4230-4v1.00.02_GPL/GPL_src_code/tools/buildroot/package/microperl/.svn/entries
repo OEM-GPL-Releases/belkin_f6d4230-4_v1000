@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="11418"
+   name=""
+   committed-date="2005-09-09T04:51:38.227456Z"
+   url="svn://uclibc.org/trunk/buildroot/package/microperl"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="11418"
+   name="microperl.mk"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2005-09-09T04:51:38.227456Z"
+   checksum="151f01afa3f3b866b5763da98bdedc8d"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="9933"
+   name="Config.in"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2005-02-25T02:27:54.703142Z"
+   checksum="191ac8af59956490f85f06d05e7c6c3c"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+</wc-entries>

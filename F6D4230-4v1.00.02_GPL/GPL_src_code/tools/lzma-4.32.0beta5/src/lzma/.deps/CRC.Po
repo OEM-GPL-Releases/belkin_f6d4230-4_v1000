@@ -1,0 +1,33 @@
+CRC.o CRC.o: ../sdk/Common/CRC.cpp ../sdk/Common/StdAfx.h \
+  ../sdk/Common/CRC.h /usr/lib/gcc/i586-suse-linux/4.1.2/include/stddef.h \
+  ../sdk/Common/Types.h ../../config.h /usr/include/inttypes.h \
+  /usr/include/features.h /usr/include/sys/cdefs.h \
+  /usr/include/bits/wordsize.h /usr/include/gnu/stubs.h \
+  /usr/include/gnu/stubs-32.h /usr/include/stdint.h \
+  /usr/include/bits/wchar.h
+
+../sdk/Common/StdAfx.h:
+
+../sdk/Common/CRC.h:
+
+/usr/lib/gcc/i586-suse-linux/4.1.2/include/stddef.h:
+
+../sdk/Common/Types.h:
+
+../../config.h:
+
+/usr/include/inttypes.h:
+
+/usr/include/features.h:
+
+/usr/include/sys/cdefs.h:
+
+/usr/include/bits/wordsize.h:
+
+/usr/include/gnu/stubs.h:
+
+/usr/include/gnu/stubs-32.h:
+
+/usr/include/stdint.h:
+
+/usr/include/bits/wchar.h:

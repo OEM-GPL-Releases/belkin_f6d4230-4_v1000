@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16282"
+   name=""
+   committed-date="2006-10-01T15:17:52.981074Z"
+   url="svn://uclibc.org/trunk/buildroot/package/links"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="16282"
+   name="links.mk"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2006-10-01T15:17:52.981074Z"
+   checksum="60aa23ff20d07bcb34bb5a29d2a01507"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="9617"
+   name="Config.in"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2004-12-26T07:36:59.000000Z"
+   checksum="1e7fccc3c92f3ca77d52b077fa177076"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+</wc-entries>

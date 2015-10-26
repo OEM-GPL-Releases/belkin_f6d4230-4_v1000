@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9842"
+   name=""
+   committed-date="2005-02-10T03:06:39.985725Z"
+   url="svn://uclibc.org/trunk/buildroot/package/newt"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="9842"
+   name="newt.mk"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2005-02-10T03:06:39.985725Z"
+   checksum="00cc4e7b96548d737aa9f0bd237bd139"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="9617"
+   name="Config.in"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2004-12-26T07:36:59.000000Z"
+   checksum="c8d9bc8ba25589dc9a9e2b3e0211b721"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+</wc-entries>

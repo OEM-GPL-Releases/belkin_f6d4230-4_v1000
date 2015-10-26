@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="12505"
+   name=""
+   committed-date="2005-11-24T06:53:24.978525Z"
+   url="svn://uclibc.org/trunk/buildroot/package/strace"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="11036"
+   name="strace-superh-update.patch"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2005-08-03T22:14:51.805339Z"
+   checksum="ff683dfacf57a09947ca5e6c4406249d"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="11082"
+   name="strace-undef-syscall.patch"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2005-08-09T07:53:40.027079Z"
+   checksum="661ca5a1974846c6f778c6c47d8b382e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="12505"
+   name="strace.mk"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2005-11-24T06:53:24.978525Z"
+   checksum="5505ef5f09719ef56670ab8792420073"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="9439"
+   name="Config.in"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2004-10-14T20:33:45.000000Z"
+   checksum="d59043f55dbdb457581fb4198ba864da"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="11036"
+   name="strace-dont-use-REG_SYSCALL-for-sh.patch"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2005-08-03T22:14:51.805339Z"
+   checksum="df94e08f4b2b33edc62a8e700bdb37ca"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+</wc-entries>

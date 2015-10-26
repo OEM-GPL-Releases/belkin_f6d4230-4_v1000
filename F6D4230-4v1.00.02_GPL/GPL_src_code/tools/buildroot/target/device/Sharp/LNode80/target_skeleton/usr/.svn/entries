@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="13423"
+   name=""
+   committed-date="2006-01-19T13:51:23.661130Z"
+   url="svn://uclibc.org/trunk/buildroot/target/device/Sharp/LNode80/target_skeleton/usr"
+   last-author="prpplague"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   name="share"
+   kind="dir"/>
+</wc-entries>

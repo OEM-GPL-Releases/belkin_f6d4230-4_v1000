@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16399"
+   name=""
+   committed-date="2006-10-17T16:57:02.129729Z"
+   url="svn://uclibc.org/trunk/buildroot/toolchain/uClibc"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="15725"
+   name="uClibc.config"
+   text-time="2006-10-24T01:01:55.000000Z"
+   committed-date="2006-07-19T06:37:58.444096Z"
+   checksum="a1dca6949a045793a996f562fd7c4f16"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:01:55.000000Z"/>
+<entry
+   committed-rev="16399"
+   name="uclibc.mk"
+   text-time="2006-10-24T01:01:55.000000Z"
+   committed-date="2006-10-17T16:57:02.129729Z"
+   checksum="e1b433240f98389a0f36bdc2e7af0a6e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:01:55.000000Z"/>
+<entry
+   committed-rev="12712"
+   name="Config.in"
+   text-time="2006-10-24T01:01:55.000000Z"
+   committed-date="2005-12-07T23:14:19.129462Z"
+   checksum="4f4f369a7859d25615dfca69b2db01c9"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:01:55.000000Z"/>
+</wc-entries>

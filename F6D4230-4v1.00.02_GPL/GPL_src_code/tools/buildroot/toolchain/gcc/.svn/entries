@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16401"
+   name=""
+   committed-date="2006-10-17T20:11:47.119210Z"
+   url="svn://uclibc.org/trunk/buildroot/toolchain/gcc"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="14844"
+   name="Makefile.in"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2006-04-13T05:50:01.272942Z"
+   checksum="085519df74c6a434a1fcaa2afccae4ab"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:01:59.000000Z"/>
+<entry
+   committed-rev="9365"
+   name="i386-gcc-soft-float.patch"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2004-10-09T01:06:03.000000Z"
+   checksum="fd06a2fc3712383bafbb4d2384c1a33d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:01:59.000000Z"/>
+<entry
+   name="4.0.0"
+   kind="dir"/>
+<entry
+   name="4.0.1"
+   kind="dir"/>
+<entry
+   name="4.1.0"
+   kind="dir"/>
+<entry
+   name="4.0.2"
+   kind="dir"/>
+<entry
+   name="4.1.1"
+   kind="dir"/>
+<entry
+   name="4.0.3"
+   kind="dir"/>
+<entry
+   name="4.2"
+   kind="dir"/>
+<entry
+   name="3.4.2"
+   kind="dir"/>
+<entry
+   name="3.4.3"
+   kind="dir"/>
+<entry
+   name="3.3.5"
+   kind="dir"/>
+<entry
+   name="3.4.4"
+   kind="dir"/>
+<entry
+   name="3.3.6"
+   kind="dir"/>
+<entry
+   name="3.4.5"
+   kind="dir"/>
+<entry
+   committed-rev="16292"
+   name="gcc-uclibc-3.x.mk"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2006-10-02T19:40:44.299185Z"
+   checksum="b86ed05a004f22235d6c73cea583545e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   name="3.4.6"
+   kind="dir"/>
+<entry
+   committed-rev="9521"
+   name="Config.in.2"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2004-11-17T21:58:09.000000Z"
+   checksum="e4d0f0e169608458b88f9f388217f78d"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+<entry
+   committed-rev="16401"
+   name="Config.in"
+   text-time="2006-10-24T01:02:01.000000Z"
+   committed-date="2006-10-17T20:11:47.119210Z"
+   checksum="f812ed5e18650f9aba62b307bf83ee81"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:01.000000Z"/>
+</wc-entries>

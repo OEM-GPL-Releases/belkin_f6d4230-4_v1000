@@ -1,0 +1,21 @@
+:uboot.bin          &00000000
+:boot_version.txt   &0002FD60
+#RF parameters      &0002FD70(512Bytes)
+#domain             &0002FF80(1 byte)
+#country            &0002FF81(1 byte)
+#SN                 &0002FF90(14 bytes)
+#MAC                &0002FFA0(6 bytes)
+##pid               &0002FFAA - 0002FFF0
+#nvram              &00020000(64K)
+# kernel (0x120000)
+:uImage             &00040000
+# rootfs (0x2A0000)
+@raeth.ko.lzma  &001FFFC0
+@rt2860v2_ap.ko.lzma  &001FFFC8
+@sc_module.ko.lzma  &001FFFD0
+@gui_www.pak  &001FFFE8
+:panic_info.txt     &001E0000
+#pid1               0002FFAA- 0002FFEF
+#pid2               001FFFF0 - 001FFFFF
+%IP1006RRv2.pid      &0002FFEF &001FFFF0
+$SIZE               &800

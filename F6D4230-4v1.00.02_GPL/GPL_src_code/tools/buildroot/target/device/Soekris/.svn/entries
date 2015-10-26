@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16282"
+   name=""
+   committed-date="2006-10-01T15:17:52.981074Z"
+   url="svn://uclibc.org/trunk/buildroot/target/device/Soekris"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   name="net4521"
+   kind="dir"/>
+<entry
+   committed-rev="13526"
+   name="Makefile.in"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2006-01-23T20:13:15.140823Z"
+   checksum="2e1f880ac93a230b7539dddea6d43c84"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   name="net4801"
+   kind="dir"/>
+<entry
+   committed-rev="13526"
+   name="Config.in"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2006-01-23T20:13:15.140823Z"
+   checksum="3c1db325721252e54af9fa646880d6c6"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   name="soekris_gpio"
+   kind="dir"/>
+</wc-entries>

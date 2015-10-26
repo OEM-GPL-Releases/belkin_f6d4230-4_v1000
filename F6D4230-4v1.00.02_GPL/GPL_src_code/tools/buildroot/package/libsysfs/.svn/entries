@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16282"
+   name=""
+   committed-date="2006-10-01T15:17:52.981074Z"
+   url="svn://uclibc.org/trunk/buildroot/package/libsysfs"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="16282"
+   name="libsysfs.mk"
+   text-time="2006-10-24T01:02:09.000000Z"
+   committed-date="2006-10-01T15:17:52.981074Z"
+   checksum="0a9ee08f4f5cb8695cd342e207afc7f8"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:09.000000Z"/>
+<entry
+   committed-rev="10488"
+   name="Config.in"
+   text-time="2006-10-24T01:02:09.000000Z"
+   committed-date="2005-06-09T11:18:38.543805Z"
+   checksum="84141730efddd26edf5c4f774a2a35ef"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:09.000000Z"/>
+</wc-entries>

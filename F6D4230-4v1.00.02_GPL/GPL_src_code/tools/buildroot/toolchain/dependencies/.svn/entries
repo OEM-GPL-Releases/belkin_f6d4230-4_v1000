@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="15725"
+   name=""
+   committed-date="2006-07-19T06:37:58.444096Z"
+   url="svn://uclibc.org/trunk/buildroot/toolchain/dependencies"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="15723"
+   name="dependencies.sh"
+   text-time="2006-10-24T01:01:56.000000Z"
+   committed-date="2006-07-18T23:54:31.783810Z"
+   checksum="583abefd2e5f35c74c1a662ea035eb96"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:01:56.000000Z"/>
+<entry
+   committed-rev="15725"
+   name="dependencies.mk"
+   text-time="2006-10-24T01:01:56.000000Z"
+   committed-date="2006-07-19T06:37:58.444096Z"
+   checksum="6e02fbb4825dcd707a790821fb9faec4"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:01:56.000000Z"/>
+</wc-entries>

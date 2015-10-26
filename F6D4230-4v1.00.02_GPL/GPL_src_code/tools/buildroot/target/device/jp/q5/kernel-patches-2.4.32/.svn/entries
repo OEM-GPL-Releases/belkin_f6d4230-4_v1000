@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="13900"
+   name=""
+   committed-date="2006-02-10T18:00:56.343132Z"
+   url="svn://uclibc.org/trunk/buildroot/target/device/jp/q5/kernel-patches-2.4.32"
+   last-author="prpplague"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="13900"
+   name="008-wbflush"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2006-02-10T18:00:56.343132Z"
+   checksum="0c3d205a613943be47e8a306858990ac"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="13900"
+   name="001-q5"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2006-02-10T18:00:56.343132Z"
+   checksum="42b9d65fbc3ce4242061fb2b60aa9443"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="13900"
+   name="005-dp83847"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2006-02-10T18:00:56.343132Z"
+   checksum="7b2f9c0da89abb98da7b8de234ac6296"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="13900"
+   name="100-version"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2006-02-10T18:00:56.343132Z"
+   checksum="bc396661ea5f4203561efabd1dd0b7c9"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="13900"
+   name="006-cfi"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2006-02-10T18:00:56.343132Z"
+   checksum="e6feb315349b06e15580daa05105bda9"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="13900"
+   name="007-au1000"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2006-02-10T18:00:56.343132Z"
+   checksum="ffae883834193a82c80b32ef92ccec55"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+</wc-entries>

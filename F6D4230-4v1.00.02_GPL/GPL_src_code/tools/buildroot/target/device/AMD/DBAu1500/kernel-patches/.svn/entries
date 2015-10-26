@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="15490"
+   name=""
+   committed-date="2006-06-23T07:06:48.441275Z"
+   url="svn://uclibc.org/trunk/buildroot/target/device/AMD/DBAu1500/kernel-patches"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="14656"
+   name="008-ieee1394-fix.patch"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2006-03-25T19:09:09.024460Z"
+   checksum="8132c31a4a064ac05b11661af99b14ea"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="14656"
+   name="029-cdrom_blocksize.patch"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2006-03-25T19:09:09.024460Z"
+   checksum="c25bd34a7e5245a2d811e57be6367b4d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="15490"
+   name="001-patch-2.6.16.20.patch"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2006-06-23T07:06:48.441275Z"
+   checksum="2baa49ff9febb7d78b577b376dccaf28"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="14656"
+   name="028-cdrom_oexcl.patch"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2006-03-25T19:09:09.024460Z"
+   checksum="8d96256176b0ca948cec3a9ac8860f2b"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="15490"
+   name="100_VERSION.patch"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2006-06-23T07:06:48.441275Z"
+   checksum="7ca1b185f3dbe490850180313f8525f4"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="14656"
+   name="098_scsi-warnings.patch"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2006-03-25T19:09:09.024460Z"
+   checksum="4e33935f5df59887bf5f3dfb7c9770b9"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="14656"
+   name="009-sysfs-n.patch"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2006-03-25T19:09:09.024460Z"
+   checksum="892713018f26750ad7b4efca498d7823"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="14656"
+   name="006_init_unshare.patch"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2006-03-25T19:09:09.024460Z"
+   checksum="332603af92867f23547c1973d8f93047"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="14656"
+   name="064-shutup-md.patch"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2006-03-25T19:09:09.024460Z"
+   checksum="e17f06a4697614419ff4394f398fca41"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="14656"
+   name="004-correct-toolchain.patch"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2006-03-25T19:09:09.024460Z"
+   checksum="513e2220834361cd13e4c48002e54812"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+</wc-entries>

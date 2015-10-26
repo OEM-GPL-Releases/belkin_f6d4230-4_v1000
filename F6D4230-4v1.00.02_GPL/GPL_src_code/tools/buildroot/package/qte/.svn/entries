@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16282"
+   name=""
+   committed-date="2006-10-01T15:17:52.981074Z"
+   url="svn://uclibc.org/trunk/buildroot/package/qte"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="16282"
+   name="qte.mk"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2006-10-01T15:17:52.981074Z"
+   checksum="e6b928e09971f4923e8a4df71b02e5d5"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="11415"
+   name="qtopia-2.1.1-no-programinvocation.patch"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2005-09-09T03:14:28.447870Z"
+   checksum="cd2d22cf10eedfb10a8bdaf48a38f300"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+<entry
+   committed-rev="11415"
+   name="Config.in"
+   text-time="2006-10-24T01:02:07.000000Z"
+   committed-date="2005-09-09T03:14:28.447870Z"
+   checksum="699624b3394d4365072201b995fa3dfb"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:07.000000Z"/>
+</wc-entries>

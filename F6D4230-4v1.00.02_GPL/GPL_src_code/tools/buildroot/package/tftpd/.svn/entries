@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="12505"
+   name=""
+   committed-date="2005-11-24T06:53:24.978525Z"
+   url="svn://uclibc.org/trunk/buildroot/package/tftpd"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="10140"
+   name="init-tftpd"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2005-04-21T17:36:04.111762Z"
+   checksum="491b977712cf874d1cf29af037db9d7a"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="12505"
+   name="tftpd.mk"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2005-11-24T06:53:24.978525Z"
+   checksum="19e9f20d3ffb6d6ba805ed02646e507e"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="9896"
+   name="Config.in"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2005-02-16T21:17:18.384786Z"
+   checksum="d83a1c4c312417fbb1b000d73e1aa9ba"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+</wc-entries>

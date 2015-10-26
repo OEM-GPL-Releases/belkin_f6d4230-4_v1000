@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="13859"
+   name=""
+   committed-date="2006-02-06T05:05:14.584065Z"
+   url="svn://uclibc.org/trunk/buildroot/toolchain/elf2flt/elf2flt/CVS"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="13220"
+   name="Repository"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2006-01-10T05:56:59.850549Z"
+   checksum="7a7a8aa06482ce1796b90e35d576575a"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="13220"
+   name="Root"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2006-01-10T05:56:59.850549Z"
+   checksum="2e2f81370e0ca2f462c5069d03ac48d1"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+<entry
+   committed-rev="13859"
+   name="Entries"
+   text-time="2006-10-24T01:02:02.000000Z"
+   committed-date="2006-02-06T05:05:14.584065Z"
+   checksum="47db1d38d32c2d5c101093c283474473"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:02.000000Z"/>
+</wc-entries>

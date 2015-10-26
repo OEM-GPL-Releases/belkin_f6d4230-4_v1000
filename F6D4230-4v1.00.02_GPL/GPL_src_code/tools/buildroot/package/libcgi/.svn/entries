@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16282"
+   name=""
+   committed-date="2006-10-01T15:17:52.981074Z"
+   url="svn://uclibc.org/trunk/buildroot/package/libcgi"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="16282"
+   name="libcgi.mk"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-10-01T15:17:52.981074Z"
+   checksum="6b06e80d54eea376dd91e4748b7b47a7"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="13523"
+   name="Config.in"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-01-23T19:49:38.168790Z"
+   checksum="9ff96b556b9b1fe742983f24c99d26de"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+</wc-entries>

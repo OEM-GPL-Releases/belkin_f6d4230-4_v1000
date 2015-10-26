@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16282"
+   name=""
+   committed-date="2006-10-01T15:17:52.981074Z"
+   url="svn://uclibc.org/trunk/buildroot/package/vtun"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="16282"
+   name="vtun.mk"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-10-01T15:17:52.981074Z"
+   checksum="89c626008d7d31772e75849409ba2b98"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="12956"
+   name="Config.in"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2005-12-20T15:15:54.252474Z"
+   checksum="8a15b2a86897a50202b8813c7d986d0f"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="9368"
+   name="vtun.patch"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2004-10-09T02:49:33.000000Z"
+   checksum="443fb36ff093e860dd3f0708e09d3d22"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+</wc-entries>

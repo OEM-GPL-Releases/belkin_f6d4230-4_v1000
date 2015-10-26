@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="14932"
+   name=""
+   committed-date="2006-04-21T01:23:35.882039Z"
+   url="svn://uclibc.org/trunk/buildroot/target/tar"
+   last-author="vapier"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="14932"
+   name="tarroot.mk"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2006-04-21T01:23:35.882039Z"
+   checksum="775b017c9c93abe2a43af88e9ba51742"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   committed-rev="11407"
+   name="Config.in"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2005-09-09T00:12:13.381328Z"
+   checksum="1674f556e5c5243d65b0d3de940c18ac"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+</wc-entries>

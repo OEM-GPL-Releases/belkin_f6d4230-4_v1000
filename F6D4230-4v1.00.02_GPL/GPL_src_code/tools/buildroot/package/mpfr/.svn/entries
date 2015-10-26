@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16250"
+   name=""
+   committed-date="2006-09-28T17:38:06.153830Z"
+   url="svn://uclibc.org/trunk/buildroot/package/mpfr"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="16250"
+   name="Config.in"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2006-09-28T17:38:06.153830Z"
+   checksum="04cd164bad37aab4db0598646a1b0534"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="16250"
+   name="mpfr.mk"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2006-09-28T17:38:06.153830Z"
+   checksum="4b57a849bfe72b96760f0a46d2cb81b9"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+</wc-entries>

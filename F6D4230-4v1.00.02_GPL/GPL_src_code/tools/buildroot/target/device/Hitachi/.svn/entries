@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="10239"
+   name=""
+   committed-date="2005-05-03T13:56:36.946842Z"
+   url="svn://uclibc.org/trunk/buildroot/target/device/Hitachi"
+   last-author="lethal"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="10239"
+   name="Makefile.in"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2005-05-03T13:56:36.946842Z"
+   checksum="e240589bdf731656d43a3853b2cd9cbc"
+   last-author="lethal"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   name="MS7206SE01"
+   kind="dir"/>
+<entry
+   committed-rev="10239"
+   name="Config.in"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2005-05-03T13:56:36.946842Z"
+   checksum="22634373f5b4f01370ed0fbf4d8b324b"
+   last-author="lethal"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+</wc-entries>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16289"
+   name=""
+   committed-date="2006-10-02T18:40:42.669621Z"
+   url="svn://uclibc.org/trunk/buildroot/package/lsof"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="16289"
+   name="lsof.mk"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-10-02T18:40:42.669621Z"
+   checksum="74de8ba57418fc8b57885103788834dc"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="15487"
+   name="Config.in"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-06-23T06:53:28.453537Z"
+   checksum="fcaed1850b7c3e1448b0872f9a6ab94d"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="15990"
+   name="lsof-noportmap.patch"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-08-25T02:13:46.806054Z"
+   checksum="dcb73ccc66bea64b4d239f11ffc583c0"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+</wc-entries>

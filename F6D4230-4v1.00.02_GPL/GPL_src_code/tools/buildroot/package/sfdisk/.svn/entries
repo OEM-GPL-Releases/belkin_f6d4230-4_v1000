@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9842"
+   name=""
+   committed-date="2005-02-10T03:06:39.985725Z"
+   url="svn://uclibc.org/trunk/buildroot/package/sfdisk"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="9842"
+   name="sfdisk.mk"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2005-02-10T03:06:39.985725Z"
+   checksum="ce3eacbe1f3b318b1986d40082cbe2f8"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="9615"
+   name="Config.in"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2004-12-24T09:39:23.000000Z"
+   checksum="8c06bb87b2e973355c7c6cb925f14e25"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+</wc-entries>

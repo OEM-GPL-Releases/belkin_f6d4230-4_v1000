@@ -1,0 +1,187 @@
+
+       ============================================ 
+         RaLink 2880 Boot Loader 1.01e00
+         Date:Jun  1 2006  Time:19:09:38
+      ============================================ 
+
+Please choose the operation: 
+   1: Load system code to SDRAM via TFTP. 
+   2: Load system code then write to Flash via TFTP. 
+   3: Boot system code via Flash.
+   4: Entr boot command line interface.
+
+   7: Load Linux filesystem then write to Flash via TFTP.    ---->will be hidden
+
+    8: System Load UBoot to SDRAM via TFTP.                   ---->hidden
+    9: System Load Boot Loader then write to Flash via TFTP.  ---->hidden
+
+Descriptions:
+	1: TFTP download Linux kernel to 0x8a10.0000
+	   booting from 0x8a10.0000
+
+	2: TFTP download Linux kernel to 0x8a10.0000
+	   Erase flash from 0xbc43.0000 extending to the file length.
+	   Program flash from 0xbc43.0000 extending to the file length.
+	   Booting from 0xbc43.0000
+	   
+	3: Booting from the flash address 0xbc43.0000
+	4: Enter the engineering mode, Uboot command line interface.
+
+	7: TFTP download Linux file system to 0x8a10.0000
+	   Erase flash from 0xbc53.0000 extending to the file length.
+	   Program flash from 0xbc53.0000 extending to the file length.
+	   Booting from 0xbc43.0000
+
+	8: TFTP download the RAM version Uboot to 0x8a20.0000
+	   booting Uboot from 0x8a20.0000
+
+	9: TFTP download ROM version Uboot to 0x8a10.0000
+	   Un-protect flash sectors from 0xbc40.0000 to 0xbc42.ffff
+	   Erase flash from 0xbc40.0000 to 0xbc42.ffff
+	   Program flash from 0xbc40.0000 to 0xbc42.ffff
+	   Protect flash sectors from 0xbc40.0000 to 0xbc42.ffff
+	   Booting from 0xbc40.0000
+
+---->6/01/2006
+cvs commit -m v1.01e00 (in directory X:\Uboot\)
+cvs commit: Examining .
+cvs commit: Examining board
+cvs commit: Examining board/rt2880
+cvs commit: Examining board/rt2880/include
+cvs commit: Examining common
+cvs commit: Examining cpu
+cvs commit: Examining cpu/ralink_soc
+cvs commit: Examining doc
+cvs commit: Examining drivers
+cvs commit: Examining include
+cvs commit: Examining include/asm
+cvs commit: Examining include/asm-mips
+cvs commit: Examining include/bedbug
+cvs commit: Examining include/configs
+cvs commit: Examining include/linux
+cvs commit: Examining include/linux/byteorder
+cvs commit: Examining include/linux/mtd
+cvs commit: Examining lib_generic
+cvs commit: Examining lib_generic/temp
+cvs commit: Examining lib_mips
+cvs commit: Examining net
+cvs commit: Examining rtc
+Checking in System.map;
+/home/cvsroot/Uboot/System.map,v  <--  System.map
+new revision: 1.2; previous revision: 1.1
+done
+Checking in config.mk;
+/home/cvsroot/Uboot/config.mk,v  <--  config.mk
+new revision: 1.2; previous revision: 1.1
+done
+Checking in board/rt2880/config.mk;
+/home/cvsroot/Uboot/board/rt2880/config.mk,v  <--  config.mk
+new revision: 1.2; previous revision: 1.1
+done
+Checking in board/rt2880/flash.c;
+/home/cvsroot/Uboot/board/rt2880/flash.c,v  <--  flash.c
+new revision: 1.2; previous revision: 1.1
+done
+Checking in board/rt2880/rt2880.c;
+/home/cvsroot/Uboot/board/rt2880/rt2880.c,v  <--  rt2880.c
+new revision: 1.2; previous revision: 1.1
+done
+Checking in common/cmd_bootm.c;
+/home/cvsroot/Uboot/common/cmd_bootm.c,v  <--  cmd_bootm.c
+new revision: 1.2; previous revision: 1.1
+done
+Checking in common/cmd_net.c;
+/home/cvsroot/Uboot/common/cmd_net.c,v  <--  cmd_net.c
+new revision: 1.2; previous revision: 1.1
+done
+Checking in common/env_flash.c;
+/home/cvsroot/Uboot/common/env_flash.c,v  <--  env_flash.c
+new revision: 1.2; previous revision: 1.1
+done
+Checking in common/main.c;
+/home/cvsroot/Uboot/common/main.c,v  <--  main.c
+new revision: 1.2; previous revision: 1.1
+done
+Checking in cpu/ralink_soc/start.S;
+/home/cvsroot/Uboot/cpu/ralink_soc/start.S,v  <--  start.S
+new revision: 1.2; previous revision: 1.1
+done
+Checking in drivers/rt2880_eth.c;
+/home/cvsroot/Uboot/drivers/rt2880_eth.c,v  <--  rt2880_eth.c
+new revision: 1.2; previous revision: 1.1
+done
+Checking in include/version.h;
+/home/cvsroot/Uboot/include/version.h,v  <--  version.h
+new revision: 1.2; previous revision: 1.1
+done
+Checking in lib_mips/board.c;
+/home/cvsroot/Uboot/lib_mips/board.c,v  <--  board.c
+new revision: 1.2; previous revision: 1.1
+done
+Checking in net/eth.c;
+/home/cvsroot/Uboot/net/eth.c,v  <--  eth.c
+new revision: 1.2; previous revision: 1.1
+done
+Checking in net/net.c;
+/home/cvsroot/Uboot/net/net.c,v  <--  net.c
+new revision: 1.2; previous revision: 1.1
+done
+
+---->6/05/2006
+Checking in System.map;
+/home/cvsroot/Uboot/System.map,v  <--  System.map
+new revision: 1.3; previous revision: 1.2
+done
+Checking in uboot.bin;
+/home/cvsroot/Uboot/uboot.bin,v  <--  uboot.bin
+new revision: 1.2; previous revision: 1.1
+done
+Checking in board/rt2880/config.mk;
+/home/cvsroot/Uboot/board/rt2880/config.mk,v  <--  config.mk
+new revision: 1.3; previous revision: 1.2
+done
+Checking in common/cmd_net.c;
+/home/cvsroot/Uboot/common/cmd_net.c,v  <--  cmd_net.c
+new revision: 1.3; previous revision: 1.2
+done
+Checking in cpu/ralink_soc/start.S;
+/home/cvsroot/Uboot/cpu/ralink_soc/start.S,v  <--  start.S
+new revision: 1.3; previous revision: 1.2
+done
+Checking in drivers/rt2880_eth.c;
+/home/cvsroot/Uboot/drivers/rt2880_eth.c,v  <--  rt2880_eth.c
+new revision: 1.3; previous revision: 1.2
+done
+Checking in lib_mips/board.c;
+/home/cvsroot/Uboot/lib_mips/board.c,v  <--  board.c
+new revision: 1.3; previous revision: 1.2
+done
+
+---->6/07/2006
+Checking in System.map;
+/home/cvsroot/Uboot/System.map,v  <--  System.map
+new revision: 1.4; previous revision: 1.3
+done
+Checking in uboot.bin;
+/home/cvsroot/Uboot/uboot.bin,v  <--  uboot.bin
+new revision: 1.3; previous revision: 1.2
+done
+
+---->6/08/2006
+Checking in System.map;
+/home/cvsroot/Uboot/System.map,v  <--  System.map
+new revision: 1.5; previous revision: 1.4
+done
+Checking in config.mk;
+/home/cvsroot/Uboot/config.mk,v  <--  config.mk
+new revision: 1.3; previous revision: 1.2
+done
+Checking in uboot.bin;
+/home/cvsroot/Uboot/uboot.bin,v  <--  uboot.bin
+new revision: 1.4; previous revision: 1.3
+done
+Checking in cpu/ralink_soc/start.S;
+/home/cvsroot/Uboot/cpu/ralink_soc/start.S,v  <--  start.S
+new revision: 1.5; previous revision: 1.4
+
+---->

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16282"
+   name=""
+   committed-date="2006-10-01T15:17:52.981074Z"
+   url="svn://uclibc.org/trunk/buildroot/package/tcl"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="10439"
+   name="tcl-strstr.patch"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2005-05-31T03:17:33.158121Z"
+   checksum="fa178ce61a6a57da7ab6dc6f41c8d0bd"
+   last-author="sjhill"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="16282"
+   name="tcl.mk"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2006-10-01T15:17:52.981074Z"
+   checksum="ad1b543003774b322a04d5aa4f2d91c7"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="10439"
+   name="Config.in"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2005-05-31T03:17:33.158121Z"
+   checksum="47627b4b7412888aed3a8d1386878e5e"
+   last-author="sjhill"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="15661"
+   name="tcl-configure-syntax-error.patch"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2006-07-07T02:05:09.206863Z"
+   checksum="174b4cb72cbfc8fe9c70f64666327cb5"
+   last-author="sjhill"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="10439"
+   name="tcl-strtod.patch"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2005-05-31T03:17:33.158121Z"
+   checksum="17495ed25a65ebcfe41e30f9df21e981"
+   last-author="sjhill"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+</wc-entries>

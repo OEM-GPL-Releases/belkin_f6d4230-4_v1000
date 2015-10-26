@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="13524"
+   name=""
+   committed-date="2006-01-23T19:58:19.385692Z"
+   url="svn://uclibc.org/trunk/buildroot/package/libcgicc"
+   last-author="prpplague"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="13524"
+   name="libcgicc.mk"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2006-01-23T19:58:19.385692Z"
+   checksum="f27190074bc7518ff945d44d9b8f3e89"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="13524"
+   name="Config.in"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2006-01-23T19:58:19.385692Z"
+   checksum="7c45f863b08961ad5d8c8c72ab700453"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+</wc-entries>

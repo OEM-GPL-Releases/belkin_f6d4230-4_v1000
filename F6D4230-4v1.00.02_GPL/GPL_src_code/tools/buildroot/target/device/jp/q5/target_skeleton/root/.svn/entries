@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="13601"
+   name=""
+   committed-date="2006-01-25T14:59:21.425037Z"
+   url="svn://uclibc.org/trunk/buildroot/target/device/jp/q5/target_skeleton/root"
+   last-author="prpplague"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="13601"
+   name=".bashrc"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2006-01-25T14:59:21.425037Z"
+   checksum="411352631c9677daa3551ca03c8760bf"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="13601"
+   name=".bash_logout"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2006-01-25T14:59:21.425037Z"
+   checksum="cbe5931476502f5598ac799a419dbb77"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="13601"
+   name=".bash_profile"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2006-01-25T14:59:21.425037Z"
+   checksum="0a761c5b95bf68ad27692d407b8407f8"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="13601"
+   name=".bash_history"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2006-01-25T14:59:21.425037Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="prpplague"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+</wc-entries>

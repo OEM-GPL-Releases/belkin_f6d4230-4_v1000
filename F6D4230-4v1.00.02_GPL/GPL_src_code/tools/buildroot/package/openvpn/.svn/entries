@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16282"
+   name=""
+   committed-date="2006-10-01T15:17:52.981074Z"
+   url="svn://uclibc.org/trunk/buildroot/package/openvpn"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="9368"
+   name="openvpn.init"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2004-10-09T02:49:33.000000Z"
+   checksum="3dc4c10f01d3eaab4d8985d55123cf2c"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="9615"
+   name="Config.in"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2004-12-24T09:39:23.000000Z"
+   checksum="fb78cb3591d5470a60ee6287c2047520"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="16282"
+   name="openvpn.mk"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2006-10-01T15:17:52.981074Z"
+   checksum="f4eee45084998ef91b8bb4c180702355"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+</wc-entries>

@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="15798"
+   name=""
+   committed-date="2006-08-10T20:58:14.758545Z"
+   url="svn://uclibc.org/trunk/buildroot/package/portage"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="15798"
+   name="portage.mk"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2006-08-10T20:58:14.758545Z"
+   checksum="53f657f97c05a9862000f137175fecb8"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+<entry
+   committed-rev="11101"
+   name="Config.in"
+   text-time="2006-10-24T01:02:11.000000Z"
+   committed-date="2005-08-11T00:02:29.702946Z"
+   checksum="4d137cbd9ea8217c3274774b3633e8bb"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:11.000000Z"/>
+</wc-entries>

@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16282"
+   name=""
+   committed-date="2006-10-01T15:17:52.981074Z"
+   url="svn://uclibc.org/trunk/buildroot/package/lzma"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="16011"
+   name="lzma.100-futimesat.patch"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2006-08-29T16:40:38.699364Z"
+   checksum="8557cbce4061c5e2f94734a24baa1599"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="16282"
+   name="lzma.mk"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2006-10-01T15:17:52.981074Z"
+   checksum="a68368f54ecbb308e05f87b0bf9ac513"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+<entry
+   committed-rev="16011"
+   name="Config.in"
+   text-time="2006-10-24T01:02:10.000000Z"
+   committed-date="2006-08-29T16:40:38.699364Z"
+   checksum="1b28b0953de1208169415ffc3381d3c6"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:10.000000Z"/>
+</wc-entries>

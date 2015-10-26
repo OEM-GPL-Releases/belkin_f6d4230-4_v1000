@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16282"
+   name=""
+   committed-date="2006-10-01T15:17:52.981074Z"
+   url="svn://uclibc.org/trunk/buildroot/package/tcpdump"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="16282"
+   name="tcpdump.mk"
+   text-time="2006-10-24T01:02:08.000000Z"
+   committed-date="2006-10-01T15:17:52.981074Z"
+   checksum="3f89f3925c865eb4d075ff1a40297c60"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:08.000000Z"/>
+<entry
+   committed-rev="9897"
+   name="Config.in"
+   text-time="2006-10-24T01:02:08.000000Z"
+   committed-date="2005-02-16T21:34:41.472262Z"
+   checksum="789c426992dc1b140f005842a2964f94"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:08.000000Z"/>
+<entry
+   committed-rev="16282"
+   name="dhcpdump.mk"
+   text-time="2006-10-24T01:02:08.000000Z"
+   committed-date="2006-10-01T15:17:52.981074Z"
+   checksum="d0bd4bab7ea8227cb9257acfce5a16e7"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:08.000000Z"/>
+</wc-entries>

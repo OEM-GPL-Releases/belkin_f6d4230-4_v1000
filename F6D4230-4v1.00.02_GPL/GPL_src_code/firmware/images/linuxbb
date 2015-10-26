@@ -1,0 +1,76 @@
+#!/bin/bash
+
+#######################################################
+#       Binary File produce Shell
+#                           v1.0 cody
+#######################################################
+
+#
+# Read the module name, and produce bin and image file
+#
+if [ $# -le 0 ]
+then
+	echo "**************Please input the module name********"
+	echo "usage: ./linux module_name"
+	exit 1
+fi
+
+MODULE_NAME="$1"
+
+PAR_FILE="IP1006RRv2.par"
+PAR_FILE_REDUCE="IP1006RRv2_reduce.par"
+BIN_FILE="$MODULE_NAME.bin"
+IMG_FILE="$MODULE_NAME.img"
+IMG_FILE2=${MODULE_NAME}_a.img
+IMG_FILE3=${MODULE_NAME}_b.img
+ZIP_FILE="$MODULE_NAME.zip"
+
+echo "$PAR_FILE"
+echo "$BIN_FILE"
+echo "$IMG_FILE"
+echo "$IMG_FILE2"
+
+if [ -f $BIN_FILE ]
+then 
+	rm -rf $BIN_FILE
+fi
+
+if [ -f $IMG_FILE ]
+then 
+	rm -rf $IMG_FILE
+fi
+
+if [ -f $IMG_FILE2 ] 
+then 
+	rm -rf $IMG_FILE2
+fi
+
+if [ ! -e $PAR_FILE ]
+then
+	echo "there is no Par file"
+	exit 1
+fi
+
+./mipsBind $PAR_FILE_REDUCE $BIN_FILE
+chmod 775 $BIN_FILE
+
+zip $ZIP_FILE $BIN_FILE
+./compress $BIN_FILE
+mv $IMG_FILE $IMG_FILE3
+
+rm $ZIP_FILE
+rm $BIN_FILE
+
+./mipsBind $PAR_FILE $BIN_FILE
+chmod 775 $BIN_FILE
+
+zip $ZIP_FILE $BIN_FILE
+./compress $BIN_FILE sErCoMm EraseAll
+mv $IMG_FILE $IMG_FILE2
+mv $IMG_FILE3 $IMG_FILE
+
+./encrypt $IMG_FILE
+./encrypt $IMG_FILE2
+
+rm $ZIP_FILE
+

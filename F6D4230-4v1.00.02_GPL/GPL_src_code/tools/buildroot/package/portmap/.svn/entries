@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16282"
+   name=""
+   committed-date="2006-10-01T15:17:52.981074Z"
+   url="svn://uclibc.org/trunk/buildroot/package/portmap"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="9510"
+   name="portmap-4.0-rpc_user.patch"
+   text-time="2006-10-24T01:02:09.000000Z"
+   committed-date="2004-11-11T14:25:10.000000Z"
+   checksum="49ef87c468b07ca837a1282faca5647b"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:09.000000Z"/>
+<entry
+   committed-rev="9510"
+   name="portmap-5b-include-errno_h.patch"
+   text-time="2006-10-24T01:02:09.000000Z"
+   committed-date="2004-11-11T14:25:10.000000Z"
+   checksum="887940376974bf01ecf94fd032f224eb"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:09.000000Z"/>
+<entry
+   committed-rev="9510"
+   name="portmap-5b-optional-tcpd.patch"
+   text-time="2006-10-24T01:02:09.000000Z"
+   committed-date="2004-11-11T14:25:10.000000Z"
+   checksum="c6afcb92b55e4e3164924e35e17a6af8"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:09.000000Z"/>
+<entry
+   committed-rev="9510"
+   name="portmap-02-4.0-malloc.patch"
+   text-time="2006-10-24T01:02:09.000000Z"
+   committed-date="2004-11-11T14:25:10.000000Z"
+   checksum="7667fe1c5070f9f57c1beb25015bb7be"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:09.000000Z"/>
+<entry
+   committed-rev="9510"
+   name="portmap-4.0-cleanup.patch"
+   text-time="2006-10-24T01:02:09.000000Z"
+   committed-date="2004-11-11T14:25:10.000000Z"
+   checksum="c4cab1b374730a709460d95211200852"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:09.000000Z"/>
+<entry
+   committed-rev="16282"
+   name="portmap.mk"
+   text-time="2006-10-24T01:02:09.000000Z"
+   committed-date="2006-10-01T15:17:52.981074Z"
+   checksum="8388c9ad5f751c9416725c7f98348174"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:09.000000Z"/>
+<entry
+   committed-rev="9510"
+   name="Config.in"
+   text-time="2006-10-24T01:02:09.000000Z"
+   committed-date="2004-11-11T14:25:10.000000Z"
+   checksum="d41ccc9150d1cb575661067fd2cfe7a6"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:09.000000Z"/>
+<entry
+   committed-rev="9510"
+   name="portmap-01-5beta.patch"
+   text-time="2006-10-24T01:02:09.000000Z"
+   committed-date="2004-11-11T14:25:10.000000Z"
+   checksum="2aa4f749b2209b53892962ab3b2b4083"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:09.000000Z"/>
+<entry
+   committed-rev="9510"
+   name="portmap-4.0-sigpipe.patch"
+   text-time="2006-10-24T01:02:09.000000Z"
+   committed-date="2004-11-11T14:25:10.000000Z"
+   checksum="d0820fd449ae88e56f2a3e78b96bb9d1"
+   last-author="vapier"
+   kind="file"
+   prop-time="2006-10-24T01:02:09.000000Z"/>
+</wc-entries>

@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="9984"
+   name=""
+   committed-date="2005-03-09T08:35:06.583849Z"
+   url="svn://uclibc.org/trunk/buildroot/target/device/AMD/DBAu1500/target_skeleton/root"
+   last-author="andersen"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="9984"
+   name=".bashrc"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2005-03-09T08:35:06.583849Z"
+   checksum="411352631c9677daa3551ca03c8760bf"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="9984"
+   name=".bash_logout"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2005-03-09T08:35:06.583849Z"
+   checksum="cbe5931476502f5598ac799a419dbb77"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="9984"
+   name=".bash_profile"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2005-03-09T08:35:06.583849Z"
+   checksum="0a761c5b95bf68ad27692d407b8407f8"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+<entry
+   committed-rev="9984"
+   name=".bash_history"
+   text-time="2006-10-24T01:02:03.000000Z"
+   committed-date="2005-03-09T08:35:06.583849Z"
+   checksum="d41d8cd98f00b204e9800998ecf8427e"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:03.000000Z"/>
+</wc-entries>

@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16282"
+   name=""
+   committed-date="2006-10-01T15:17:52.981074Z"
+   url="svn://uclibc.org/trunk/buildroot/target/x86/grub"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="14565"
+   name="grub.100-autoreconf.patch"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2006-03-18T13:07:29.490626Z"
+   checksum="645c598885fda82efca1a4afe95af0c1"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   committed-rev="14565"
+   name="grub.200-fix_mbr_handling.patch"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2006-03-18T13:07:29.490626Z"
+   checksum="d906bd5140a7fab0320aaaf3d6d63899"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   committed-rev="16282"
+   name="grub.mk"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2006-10-01T15:17:52.981074Z"
+   checksum="caf6adf243580632eb96d2a450b5cacd"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   committed-rev="14565"
+   name="Config.in"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2006-03-18T13:07:29.490626Z"
+   checksum="8e89b226a646296da8f3ea8f35b1a993"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+<entry
+   committed-rev="14565"
+   name="splash.xpm.gz"
+   text-time="2006-10-24T01:02:06.000000Z"
+   committed-date="2006-03-18T13:07:29.490626Z"
+   checksum="bfab764b4e3c0b6e315063b2f5122d98"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:06.000000Z"/>
+</wc-entries>

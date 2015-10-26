@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wc-entries
+   xmlns="svn:">
+<entry
+   committed-rev="16282"
+   name=""
+   committed-date="2006-10-01T15:17:52.981074Z"
+   url="svn://uclibc.org/trunk/buildroot/package/dm"
+   last-author="aldot"
+   kind="dir"
+   uuid="69ca8d6d-28ef-0310-b511-8ec308f3f277"
+   revision="16429"/>
+<entry
+   committed-rev="16282"
+   name="dm.mk"
+   text-time="2006-10-24T01:02:09.000000Z"
+   committed-date="2006-10-01T15:17:52.981074Z"
+   checksum="4a6a1a65adc41dbc80b31005cb8bfbbe"
+   last-author="aldot"
+   kind="file"
+   prop-time="2006-10-24T01:02:09.000000Z"/>
+<entry
+   committed-rev="10573"
+   name="Config.in"
+   text-time="2006-10-24T01:02:09.000000Z"
+   committed-date="2005-06-24T02:46:31.507641Z"
+   checksum="f7912abfca457c13ac4ac2d07e5a3328"
+   last-author="andersen"
+   kind="file"
+   prop-time="2006-10-24T01:02:09.000000Z"/>
+</wc-entries>
